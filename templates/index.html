@@ -1,0 +1,154 @@
+{% extends "base.html" %}
+
+{% block title %}News Crawler Dashboard{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-12">
+        <h1 class="display-4 text-center mb-4">
+            <i class="fas fa-newspaper text-primary"></i> News Crawler Dashboard
+        </h1>
+        <p class="lead text-center text-muted">Real-time Turkish news aggregation from Dunya and Ekonomist</p>
+    </div>
+</div>
+
+<!-- Statistics Cards -->
+<div class="row mb-5">
+    <div class="col-md-3 mb-3">
+        <div class="card stats-card h-100">
+            <div class="card-body text-center">
+                <i class="fas fa-newspaper fa-2x mb-2"></i>
+                <h3 id="total-articles">{{ stats.total_articles + stats.ekonomist_articles }}</h3>
+                <p class="mb-0">Total Articles</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 mb-3">
+        <div class="card bg-success text-white h-100">
+            <div class="card-body text-center">
+                <i class="fas fa-globe fa-2x mb-2"></i>
+                <h3 id="dunya-articles">{{ stats.dunya_articles }}</h3>
+                <p class="mb-0">Dunya Articles</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 mb-3">
+        <div class="card bg-danger text-white h-100">
+            <div class="card-body text-center">
+                <i class="fas fa-chart-line fa-2x mb-2"></i>
+                <h3 id="ekonomist-articles">{{ stats.ekonomist_articles }}</h3>
+                <p class="mb-0">Ekonomist Articles</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 mb-3">
+        <div class="card bg-info text-white h-100">
+            <div class="card-body text-center">
+                <i class="fas fa-clock fa-2x mb-2"></i>
+                <h3 id="total-today">0</h3>
+                <p class="mb-0">Today's Articles</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Quick Actions -->
+<div class="row mb-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="mb-0"><i class="fas fa-bolt"></i> Quick Actions</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-4 mb-2">
+                        <a href="{{ url_for('dunya_articles') }}" class="btn btn-success btn-lg w-100">
+                            <i class="fas fa-globe"></i> Browse Dunya News
+                        </a>
+                    </div>
+                    <div class="col-md-4 mb-2">
+                        <a href="{{ url_for('ekonomist_articles') }}" class="btn btn-danger btn-lg w-100">
+                            <i class="fas fa-chart-line"></i> Browse Ekonomist News
+                        </a>
+                    </div>
+                    <div class="col-md-4 mb-2">
+                        <a href="{{ url_for('api_stats') }}" class="btn btn-info btn-lg w-100" target="_blank">
+                            <i class="fas fa-code"></i> View API
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Recent Articles -->
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="mb-0"><i class="fas fa-clock"></i> Recent Articles</h5>
+            </div>
+            <div class="card-body">
+                {% if recent_articles %}
+                    <div class="row">
+                        {% for article in recent_articles %}
+                        <div class="col-md-6 mb-3">
+                            <div class="card news-card {{ 'dunya-card' if article[0] == 'dunya' else 'ekonomist-card' }}">
+                                <div class="card-body">
+                                    <div class="d-flex justify-content-between align-items-start mb-2">
+                                        <span class="badge bg-{{ 'success' if article[0] == 'dunya' else 'danger' }} source-badge">
+                                            {{ article[0].title() }}
+                                        </span>
+                                        <small class="text-muted">
+                                            {{ article[4].strftime('%Y-%m-%d %H:%M') if article[4] else 'Unknown date' }}
+                                        </small>
+                                    </div>
+                                    <h6 class="card-title">{{ article[1][:100] }}{% if article[1]|length > 100 %}...{% endif %}</h6>
+                                    <p class="card-text text-muted small">
+                                        <i class="fas fa-link"></i> 
+                                        <a href="{{ article[2] }}" target="_blank" class="text-decoration-none">
+                                            View Original Article
+                                        </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    <div class="text-center py-4">
+                        <i class="fas fa-newspaper fa-3x text-muted mb-3"></i>
+                        <p class="text-muted">No articles found. Start crawling to see data here!</p>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- API Information -->
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="mb-0"><i class="fas fa-code"></i> API Endpoints</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h6>Statistics API</h6>
+                        <code>/api/stats</code>
+                        <p class="small text-muted">Get current statistics about articles</p>
+                    </div>
+                    <div class="col-md-6">
+                        <h6>Recent Articles API</h6>
+                        <code>/api/recent?limit=10</code>
+                        <p class="small text-muted">Get recent articles in JSON format</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

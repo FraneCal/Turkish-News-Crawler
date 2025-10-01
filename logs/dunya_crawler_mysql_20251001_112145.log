@@ -1,0 +1,5 @@
+2025-10-01 11:21:45,506 - INFO - Dunya Crawler MySQL initialized
+2025-10-01 11:21:45,521 - INFO - package: mysql.connector.plugins
+2025-10-01 11:21:45,521 - INFO - plugin_name: caching_sha2_password
+2025-10-01 11:21:45,521 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-10-01 11:21:45,542 - INFO - MySQL database tables initialized for Dunya crawler

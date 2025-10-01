@@ -1,0 +1,15 @@
+[Unit]
+Description=News Crawler Web Application
+After=network.target mysql.service
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/NewsCrawler
+Environment=PATH=/usr/bin:/usr/local/bin
+ExecStart=/usr/bin/python3 /root/NewsCrawler/run_web.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,222 @@
+2025-09-29 23:12:51,120 - INFO - Dunya Crawler initialized
+2025-09-29 23:12:51,136 - INFO - Database initialized
+2025-09-29 23:12:51,140 - INFO - Target date range: 2025-09-18 to 2025-09-20
+2025-09-29 23:12:51,140 - INFO - Phase 1: Finding target page
+2025-09-29 23:12:51,140 - INFO - === TWO-PHASE ADAPTIVE SEARCH ===
+2025-09-29 23:12:51,140 - INFO - Looking for end date: 2025-09-20
+2025-09-29 23:12:51,140 - INFO - Phase 1: Adaptive jumping to get close to target...
+2025-09-29 23:12:51,140 - INFO - Starting adaptive jumping from page 1 with jump size 1
+2025-09-29 23:12:51,140 - INFO - Jumping from page 1 to page 2 (jump size: 1)
+2025-09-29 23:12:51,141 - INFO - Checking page 2 for dates...
+2025-09-29 23:12:52,284 - INFO - Checking first article from page 2: https://www.dunya.com/gundem/adalet-bakanligi-maas-promosyonu-yatti-mi-ne-zaman-...
+2025-09-29 23:12:52,703 - INFO - Page 2: Article date = 2025-09-29 11:21
+2025-09-29 23:12:52,703 - INFO - Page 2: Date range = 2025-09-29 to 2025-09-29
+2025-09-29 23:12:52,703 - INFO - Distance from target: -9 days (comparing dates only)
+2025-09-29 23:12:52,703 - INFO - Page 2 is 9 days NEWER than target - need to go to older pages
+2025-09-29 23:12:52,705 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:12:52,705 - INFO - Jumping from page 2 to page 3 (jump size: 1)
+2025-09-29 23:12:52,705 - INFO - Checking page 3 for dates...
+2025-09-29 23:12:53,527 - INFO - Checking first article from page 3: https://www.dunya.com/gundem/son-dakika-turgay-ciner-hakkinda-yakalama-karari-ha...
+2025-09-29 23:12:54,190 - INFO - Page 3: Article date = 2025-09-28 18:15
+2025-09-29 23:12:54,191 - INFO - Page 3: Date range = 2025-09-28 to 2025-09-28
+2025-09-29 23:12:54,192 - INFO - Distance from target: -8 days (comparing dates only)
+2025-09-29 23:12:54,192 - INFO - Page 3 is 8 days NEWER than target - need to go to older pages
+2025-09-29 23:12:54,193 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:12:54,193 - INFO - Jumping from page 3 to page 4 (jump size: 1)
+2025-09-29 23:12:54,194 - INFO - Checking page 4 for dates...
+2025-09-29 23:12:54,972 - INFO - Checking first article from page 4: https://www.dunya.com/gundem/simav-depremi-havaciligi-etkiledi-ucaklar-pisti-pas...
+2025-09-29 23:12:55,642 - INFO - Page 4: Article date = 2025-09-28 13:54
+2025-09-29 23:12:55,643 - INFO - Page 4: Date range = 2025-09-28 to 2025-09-28
+2025-09-29 23:12:55,643 - INFO - Distance from target: -8 days (comparing dates only)
+2025-09-29 23:12:55,643 - INFO - Page 4 is 8 days NEWER than target - need to go to older pages
+2025-09-29 23:12:55,644 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:12:55,644 - INFO - Jumping from page 4 to page 5 (jump size: 1)
+2025-09-29 23:12:55,645 - INFO - Checking page 5 for dates...
+2025-09-29 23:12:56,317 - INFO - Checking first article from page 5: https://www.dunya.com/gundem/meteorolojiden-uyari-sicakliklar-dusuyor-yagis-geli...
+2025-09-29 23:12:57,076 - INFO - Page 5: Article date = 2025-09-28 07:51
+2025-09-29 23:12:57,077 - INFO - Page 5: Date range = 2025-09-28 to 2025-09-28
+2025-09-29 23:12:57,077 - INFO - Distance from target: -8 days (comparing dates only)
+2025-09-29 23:12:57,078 - INFO - Page 5 is 8 days NEWER than target - need to go to older pages
+2025-09-29 23:12:57,079 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:12:57,079 - INFO - Jumping from page 5 to page 6 (jump size: 1)
+2025-09-29 23:12:57,079 - INFO - Checking page 6 for dates...
+2025-09-29 23:12:57,770 - INFO - Checking first article from page 6: https://www.dunya.com/gundem/tubitakin-2025-uluslararasi-lider-arastirmacilar-ve...
+2025-09-29 23:12:58,383 - INFO - Page 6: Article date = 2025-09-27 15:26
+2025-09-29 23:12:58,384 - INFO - Page 6: Date range = 2025-09-27 to 2025-09-27
+2025-09-29 23:12:58,384 - INFO - Distance from target: -7 days (comparing dates only)
+2025-09-29 23:12:58,384 - INFO - Page 6 is 7 days NEWER than target - need to go to older pages
+2025-09-29 23:12:58,385 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:12:58,385 - INFO - Jumping from page 6 to page 7 (jump size: 1)
+2025-09-29 23:12:58,385 - INFO - Checking page 7 for dates...
+2025-09-29 23:12:59,098 - INFO - Checking first article from page 7: https://www.dunya.com/gundem/son-dakika-abb-sorusturmasi-5-kisi-tutuklandi-haber...
+2025-09-29 23:12:59,802 - INFO - Page 7: Article date = 2025-09-26 22:37
+2025-09-29 23:12:59,803 - INFO - Page 7: Date range = 2025-09-26 to 2025-09-26
+2025-09-29 23:12:59,803 - INFO - Distance from target: -6 days (comparing dates only)
+2025-09-29 23:12:59,804 - INFO - Page 7 is 6 days NEWER than target - need to go to older pages
+2025-09-29 23:12:59,804 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:12:59,805 - INFO - Jumping from page 7 to page 8 (jump size: 1)
+2025-09-29 23:12:59,805 - INFO - Checking page 8 for dates...
+2025-09-29 23:13:00,415 - INFO - Checking first article from page 8: https://www.dunya.com/gundem/leman-dergisi-davasinda-4-kisi-tahliye-edildi-haber...
+2025-09-29 23:13:01,133 - INFO - Page 8: Article date = 2025-09-26 15:35
+2025-09-29 23:13:01,134 - INFO - Page 8: Date range = 2025-09-26 to 2025-09-26
+2025-09-29 23:13:01,134 - INFO - Distance from target: -6 days (comparing dates only)
+2025-09-29 23:13:01,135 - INFO - Page 8 is 6 days NEWER than target - need to go to older pages
+2025-09-29 23:13:01,135 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:13:01,136 - INFO - Jumping from page 8 to page 9 (jump size: 1)
+2025-09-29 23:13:01,136 - INFO - Checking page 9 for dates...
+2025-09-29 23:13:01,984 - INFO - Checking first article from page 9: https://www.dunya.com/gundem/bahceliden-nato-cikisi-turkiyeyi-gormezden-geliyors...
+2025-09-29 23:13:02,675 - INFO - Page 9: Article date = 2025-09-26 11:02
+2025-09-29 23:13:02,675 - INFO - Page 9: Date range = 2025-09-26 to 2025-09-26
+2025-09-29 23:13:02,675 - INFO - Distance from target: -6 days (comparing dates only)
+2025-09-29 23:13:02,675 - INFO - Page 9 is 6 days NEWER than target - need to go to older pages
+2025-09-29 23:13:02,676 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:13:02,676 - INFO - Jumping from page 9 to page 10 (jump size: 1)
+2025-09-29 23:13:02,676 - INFO - Checking page 10 for dates...
+2025-09-29 23:13:03,230 - INFO - Checking first article from page 10: https://www.dunya.com/gundem/erdogan-trump-zirvesi-sona-erdi-trump-turkiyeye-yon...
+2025-09-29 23:13:04,017 - INFO - Page 10: Article date = 2025-09-25 17:53
+2025-09-29 23:13:04,019 - INFO - Page 10: Date range = 2025-09-25 to 2025-09-25
+2025-09-29 23:13:04,019 - INFO - Distance from target: -5 days (comparing dates only)
+2025-09-29 23:13:04,019 - INFO - Page 10 is 5 days NEWER than target - need to go to older pages
+2025-09-29 23:13:04,019 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:13:04,020 - INFO - Jumping from page 10 to page 11 (jump size: 1)
+2025-09-29 23:13:04,020 - INFO - Checking page 11 for dates...
+2025-09-29 23:13:04,651 - INFO - Checking first article from page 11: https://www.dunya.com/gundem/son-depremler-listesi-25-eylul-2025-az-once-deprem-...
+2025-09-29 23:13:05,357 - INFO - Page 11: Article date = 2025-09-25 10:28
+2025-09-29 23:13:05,358 - INFO - Page 11: Date range = 2025-09-25 to 2025-09-25
+2025-09-29 23:13:05,358 - INFO - Distance from target: -5 days (comparing dates only)
+2025-09-29 23:13:05,358 - INFO - Page 11 is 5 days NEWER than target - need to go to older pages
+2025-09-29 23:13:05,358 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:13:05,359 - INFO - Jumping from page 11 to page 12 (jump size: 1)
+2025-09-29 23:13:05,359 - INFO - Checking page 12 for dates...
+2025-09-29 23:13:06,541 - INFO - Checking first article from page 12: https://www.dunya.com/gundem/abb-baskani-mansur-yavastan-sorusturma-aciklamasi-h...
+2025-09-29 23:13:07,285 - INFO - Page 12: Article date = 2025-09-24 14:23
+2025-09-29 23:13:07,286 - INFO - Page 12: Date range = 2025-09-24 to 2025-09-24
+2025-09-29 23:13:07,287 - INFO - Distance from target: -4 days (comparing dates only)
+2025-09-29 23:13:07,287 - INFO - Page 12 is 4 days NEWER than target - need to go to older pages
+2025-09-29 23:13:07,288 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:13:07,288 - INFO - Jumping from page 12 to page 13 (jump size: 1)
+2025-09-29 23:13:07,288 - INFO - Checking page 13 for dates...
+2025-09-29 23:13:07,783 - INFO - Checking first article from page 13: https://www.dunya.com/gundem/new-yorkta-gazze-icin-kritik-zirve-cumhurbaskani-er...
+2025-09-29 23:13:08,458 - INFO - Page 13: Article date = 2025-09-24 09:17
+2025-09-29 23:13:08,460 - INFO - Page 13: Date range = 2025-09-24 to 2025-09-24
+2025-09-29 23:13:08,462 - INFO - Distance from target: -4 days (comparing dates only)
+2025-09-29 23:13:08,462 - INFO - Page 13 is 4 days NEWER than target - need to go to older pages
+2025-09-29 23:13:08,462 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:13:08,463 - INFO - Jumping from page 13 to page 14 (jump size: 1)
+2025-09-29 23:13:08,463 - INFO - Checking page 14 for dates...
+2025-09-29 23:13:09,643 - INFO - Checking first article from page 14: https://www.dunya.com/gundem/tmodan-bugdaylara-haciz-iddiasina-iliskin-aciklama-...
+2025-09-29 23:13:10,370 - INFO - Page 14: Article date = 2025-09-23 16:11
+2025-09-29 23:13:10,371 - INFO - Page 14: Date range = 2025-09-23 to 2025-09-23
+2025-09-29 23:13:10,371 - INFO - Distance from target: -3 days (comparing dates only)
+2025-09-29 23:13:10,373 - INFO - Page 14 is 3 days NEWER than target - need to go to older pages
+2025-09-29 23:13:10,373 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:13:10,373 - INFO - Jumping from page 14 to page 15 (jump size: 1)
+2025-09-29 23:13:10,374 - INFO - Checking page 15 for dates...
+2025-09-29 23:13:11,006 - INFO - Checking first article from page 15: https://www.dunya.com/gundem/ankara-buyuksehir-belediyesinden-operasyon-aciklama...
+2025-09-29 23:13:11,918 - INFO - Page 15: Article date = 2025-09-23 11:03
+2025-09-29 23:13:11,918 - INFO - Page 15: Date range = 2025-09-23 to 2025-09-23
+2025-09-29 23:13:11,919 - INFO - Distance from target: -3 days (comparing dates only)
+2025-09-29 23:13:11,919 - INFO - Page 15 is 3 days NEWER than target - need to go to older pages
+2025-09-29 23:13:11,919 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:13:11,919 - INFO - Jumping from page 15 to page 16 (jump size: 1)
+2025-09-29 23:13:11,920 - INFO - Checking page 16 for dates...
+2025-09-29 23:13:12,905 - INFO - Checking first article from page 16: https://www.dunya.com/gundem/son-dakika-balikesir-bu-sefer-de-4-buyuklugunde-dep...
+2025-09-29 23:13:13,517 - INFO - Page 16: Article date = 2025-09-22 17:28
+2025-09-29 23:13:13,518 - INFO - Page 16: Date range = 2025-09-22 to 2025-09-22
+2025-09-29 23:13:13,518 - INFO - Distance from target: -2 days (comparing dates only)
+2025-09-29 23:13:13,519 - INFO - Page 16 is 2 days NEWER than target - need to go to older pages
+2025-09-29 23:13:13,519 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:13:13,520 - INFO - Jumping from page 16 to page 17 (jump size: 1)
+2025-09-29 23:13:13,520 - INFO - Checking page 17 for dates...
+2025-09-29 23:13:16,298 - INFO - Checking first article from page 17: https://www.dunya.com/gundem/abdnin-california-eyaletinde-deprem-tsunami-uyarisi...
+2025-09-29 23:13:17,022 - INFO - Page 17: Article date = 2025-09-22 14:04
+2025-09-29 23:13:17,023 - INFO - Page 17: Date range = 2025-09-22 to 2025-09-22
+2025-09-29 23:13:17,024 - INFO - Distance from target: -2 days (comparing dates only)
+2025-09-29 23:13:17,024 - INFO - Page 17 is 2 days NEWER than target - need to go to older pages
+2025-09-29 23:13:17,024 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:13:17,025 - INFO - Jumping from page 17 to page 18 (jump size: 1)
+2025-09-29 23:13:17,025 - INFO - Checking page 18 for dates...
+2025-09-29 23:13:17,778 - INFO - Checking first article from page 18: https://www.dunya.com/gundem/fenerbahcenin-yeni-baskani-sadettin-saran-kimdir-ne...
+2025-09-29 23:13:18,417 - INFO - Page 18: Article date = 2025-09-22 08:26
+2025-09-29 23:13:18,417 - INFO - Page 18: Date range = 2025-09-22 to 2025-09-22
+2025-09-29 23:13:18,418 - INFO - Distance from target: -2 days (comparing dates only)
+2025-09-29 23:13:18,418 - INFO - Page 18 is 2 days NEWER than target - need to go to older pages
+2025-09-29 23:13:18,419 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:13:18,419 - INFO - Jumping from page 18 to page 19 (jump size: 1)
+2025-09-29 23:13:18,420 - INFO - Checking page 19 for dates...
+2025-09-29 23:13:18,989 - INFO - Checking first article from page 19: https://www.dunya.com/gundem/gaziantepte-1-milyon-100-bin-dolarlik-sahte-banknot...
+2025-09-29 23:13:19,614 - INFO - Page 19: Article date = 2025-09-21 16:35
+2025-09-29 23:13:19,615 - INFO - Page 19: Date range = 2025-09-21 to 2025-09-21
+2025-09-29 23:13:19,615 - INFO - Distance from target: -1 days (comparing dates only)
+2025-09-29 23:13:19,616 - INFO - Page 19 is 1 days NEWER than target - need to go to older pages
+2025-09-29 23:13:19,616 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:13:19,617 - INFO - Jumping from page 19 to page 20 (jump size: 1)
+2025-09-29 23:13:19,617 - INFO - Checking page 20 for dates...
+2025-09-29 23:13:20,272 - INFO - Checking first article from page 20: https://www.dunya.com/gundem/marketler-pazar-gunu-kapanacak-mi-haberi-794971...
+2025-09-29 23:13:20,937 - INFO - Page 20: Article date = 2025-09-21 11:16
+2025-09-29 23:13:20,938 - INFO - Page 20: Date range = 2025-09-21 to 2025-09-21
+2025-09-29 23:13:20,938 - INFO - Distance from target: -1 days (comparing dates only)
+2025-09-29 23:13:20,938 - INFO - Page 20 is 1 days NEWER than target - need to go to older pages
+2025-09-29 23:13:20,939 - INFO - Very close to target - reducing jump size to 1
+2025-09-29 23:13:20,939 - INFO - Jumping from page 20 to page 21 (jump size: 1)
+2025-09-29 23:13:20,939 - INFO - Checking page 21 for dates...
+2025-09-29 23:13:21,541 - INFO - Checking first article from page 21: https://www.dunya.com/gundem/istanbulda-ozel-hastanede-dogum-skandali-iddiasi-so...
+2025-09-29 23:13:22,234 - INFO - Page 21: Article date = 2025-09-20 19:24
+2025-09-29 23:13:22,235 - INFO - Page 21: Date range = 2025-09-20 to 2025-09-20
+2025-09-29 23:13:22,235 - INFO - Distance from target: 0 days (comparing dates only)
+2025-09-29 23:13:22,236 - INFO - FOUND EXACT TARGET! Page 21 has date 2025-09-20 = target 2025-09-20
+2025-09-29 23:13:22,236 - INFO - Phase 2: Found target page for scraping
+2025-09-29 23:13:22,237 - INFO - Found target page: 21
+2025-09-29 23:13:22,237 - INFO - === IMMEDIATE SCRAPING FROM PAGE 21 ===
+2025-09-29 23:13:22,238 - INFO - Starting from page 21 and going forward until we reach start date 2025-09-18
+2025-09-29 23:13:22,238 - INFO - 
+--- Processing Page 21 ---
+2025-09-29 23:13:22,239 - INFO - Checking page 21 for dates...
+2025-09-29 23:13:22,502 - INFO - Checking first article from page 21: https://www.dunya.com/gundem/istanbulda-ozel-hastanede-dogum-skandali-iddiasi-so...
+2025-09-29 23:13:22,775 - INFO - Page 21: Article date = 2025-09-20 19:24
+2025-09-29 23:13:22,775 - INFO - Page 21: Date 2025-09-20 >= start date 2025-09-18 - continuing
+2025-09-29 23:13:34,304 - INFO - Page 21: 16 articles saved
+2025-09-29 23:13:34,304 - INFO - 
+--- Processing Page 22 ---
+2025-09-29 23:13:34,306 - INFO - Checking page 22 for dates...
+2025-09-29 23:13:34,918 - INFO - Checking first article from page 22: https://www.dunya.com/gundem/edirnede-sehit-ailesine-846-bin-tllik-dolandiricili...
+2025-09-29 23:13:35,549 - INFO - Page 22: Article date = 2025-09-20 09:37
+2025-09-29 23:13:35,550 - INFO - Page 22: Date 2025-09-20 >= start date 2025-09-18 - continuing
+2025-09-29 23:13:58,427 - INFO - Page 22: 16 articles saved
+2025-09-29 23:13:58,427 - INFO - 
+--- Processing Page 23 ---
+2025-09-29 23:13:58,428 - INFO - Checking page 23 for dates...
+2025-09-29 23:13:59,575 - INFO - Checking first article from page 23: https://www.dunya.com/gundem/freze-makinesi-tasiyan-tirda-739-kilo-esrar-yakalan...
+2025-09-29 23:14:00,714 - INFO - Page 23: Article date = 2025-09-19 15:30
+2025-09-29 23:14:00,715 - INFO - Page 23: Date 2025-09-19 >= start date 2025-09-18 - continuing
+2025-09-29 23:14:25,218 - INFO - Page 23: 16 articles saved
+2025-09-29 23:14:25,218 - INFO - 
+--- Processing Page 24 ---
+2025-09-29 23:14:25,219 - INFO - Checking page 24 for dates...
+2025-09-29 23:14:26,414 - INFO - Checking first article from page 24: https://www.dunya.com/gundem/orman-yanginlariyla-mucadele-eden-gonullulere-tazmi...
+2025-09-29 23:14:27,594 - INFO - Page 24: Article date = 2025-09-19 08:46
+2025-09-29 23:14:27,595 - INFO - Page 24: Date 2025-09-19 >= start date 2025-09-18 - continuing
+2025-09-29 23:14:45,531 - INFO - Page 24: 16 articles saved
+2025-09-29 23:14:45,531 - INFO - 
+--- Processing Page 25 ---
+2025-09-29 23:14:45,531 - INFO - Checking page 25 for dates...
+2025-09-29 23:14:46,574 - INFO - Checking first article from page 25: https://www.dunya.com/gundem/rtukten-disney-netflix-prime-video-hbo-max-ve-mubiy...
+2025-09-29 23:14:47,561 - INFO - Page 25: Article date = 2025-09-18 15:25
+2025-09-29 23:14:47,562 - INFO - Page 25: Date 2025-09-18 >= start date 2025-09-18 - continuing
+2025-09-29 23:15:03,956 - INFO - Page 25: 15 articles saved
+2025-09-29 23:15:03,957 - INFO - 
+--- Processing Page 26 ---
+2025-09-29 23:15:03,957 - INFO - Checking page 26 for dates...
+2025-09-29 23:15:04,902 - INFO - Checking first article from page 26: https://www.dunya.com/gundem/yeni-diyanet-isleri-baskani-safi-arpagus-kimdir-kac...
+2025-09-29 23:15:05,902 - INFO - Page 26: Article date = 2025-09-18 07:45
+2025-09-29 23:15:05,903 - INFO - Page 26: Date 2025-09-18 >= start date 2025-09-18 - continuing
+2025-09-29 23:15:23,811 - INFO - Page 26: 6 articles saved
+2025-09-29 23:15:23,811 - INFO - 
+--- Processing Page 27 ---
+2025-09-29 23:15:23,812 - INFO - Checking page 27 for dates...
+2025-09-29 23:15:24,818 - INFO - Checking first article from page 27: https://www.dunya.com/gundem/chp-zeytinlik-ve-ormanlari-madencilige-acan-kanunu-...
+2025-09-29 23:15:25,808 - INFO - Page 27: Article date = 2025-09-17 14:12
+2025-09-29 23:15:25,808 - INFO - Page 27: Reached start date (2025-09-17) - stopping
+2025-09-29 23:15:25,816 - INFO - === SCRAPING COMPLETE ===
+2025-09-29 23:15:25,816 - INFO - Total articles saved: 85
+2025-09-29 23:15:25,816 - INFO - FINAL SUMMARY - Time: 0:02:34.679614, Articles: 85

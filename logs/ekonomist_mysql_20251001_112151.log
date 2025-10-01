@@ -1,0 +1,6 @@
+2025-10-01 11:21:51,460 - INFO - Ekonomist Crawler MySQL initialized
+2025-10-01 11:21:51,474 - INFO - package: mysql.connector.plugins
+2025-10-01 11:21:51,474 - INFO - plugin_name: caching_sha2_password
+2025-10-01 11:21:51,474 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-10-01 11:21:51,493 - INFO - MySQL database tables initialized for Ekonomist crawler
+2025-10-01 11:21:51,494 - INFO - Session configured

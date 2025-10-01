@@ -1,0 +1,455 @@
+2025-10-01 11:39:57,959 - INFO - Dunya Crawler MySQL initialized
+2025-10-01 11:39:57,975 - INFO - MySQL database tables initialized for Dunya crawler
+2025-10-01 11:39:57,977 - INFO - Target date range: 2025-09-01 to 2025-10-01
+2025-10-01 11:39:57,977 - INFO - Phase 1: Finding target page
+2025-10-01 11:39:57,977 - INFO - === TWO-PHASE ADAPTIVE SEARCH ===
+2025-10-01 11:39:57,977 - INFO - Looking for end date: 2025-10-01
+2025-10-01 11:39:57,977 - INFO - Phase 1: Adaptive jumping to get close to target...
+2025-10-01 11:39:57,977 - INFO - Starting adaptive jumping from page 1 with jump size 1
+2025-10-01 11:39:57,977 - INFO - Jumping from page 1 to page 2 (jump size: 1)
+2025-10-01 11:39:57,978 - INFO - Checking page 2 for dates...
+2025-10-01 11:39:58,283 - INFO - Checking first article from page 2: https://www.dunya.com/gundem/hakan-fidan-uluslararasi-konferans-icin-suudi-arabi...
+2025-10-01 11:39:58,634 - INFO - Page 2: Article date = 2025-10-01 09:17
+2025-10-01 11:39:58,635 - INFO - Page 2: Date range = 2025-10-01 to 2025-10-01
+2025-10-01 11:39:58,635 - INFO - Distance from target: 0 days (comparing dates only)
+2025-10-01 11:39:58,635 - INFO - FOUND EXACT TARGET! Page 2 has date 2025-10-01 = target 2025-10-01
+2025-10-01 11:39:58,635 - INFO - Phase 2: Found target page for scraping
+2025-10-01 11:39:58,635 - INFO - Found target page: 2
+2025-10-01 11:39:58,635 - INFO - === IMMEDIATE SCRAPING FROM PAGE 2 ===
+2025-10-01 11:39:58,635 - INFO - Starting from page 2 and going forward until we reach start date 2025-09-01
+2025-10-01 11:39:58,635 - INFO - 
+--- Processing Page 2 ---
+2025-10-01 11:39:58,635 - INFO - Checking page 2 for dates...
+2025-10-01 11:39:58,666 - INFO - Checking first article from page 2: https://www.dunya.com/gundem/hakan-fidan-uluslararasi-konferans-icin-suudi-arabi...
+2025-10-01 11:39:58,693 - INFO - Page 2: Article date = 2025-10-01 09:17
+2025-10-01 11:39:58,693 - INFO - Page 2: Date 2025-10-01 >= start date 2025-09-01 - continuing
+2025-10-01 11:40:03,171 - INFO - Page 2: 16 articles saved
+2025-10-01 11:40:03,171 - INFO - 
+--- Processing Page 3 ---
+2025-10-01 11:40:03,171 - INFO - Checking page 3 for dates...
+2025-10-01 11:40:03,624 - INFO - Checking first article from page 3: https://www.dunya.com/gundem/mitten-kisisel-verileri-calanlara-operasyon-3-tutuk...
+2025-10-01 11:40:03,962 - INFO - Page 3: Article date = 2025-09-30 15:47
+2025-10-01 11:40:03,962 - INFO - Page 3: Date 2025-09-30 >= start date 2025-09-01 - continuing
+2025-10-01 11:40:09,040 - INFO - Page 3: 15 articles saved
+2025-10-01 11:40:09,041 - INFO - 
+--- Processing Page 4 ---
+2025-10-01 11:40:09,041 - INFO - Checking page 4 for dates...
+2025-10-01 11:40:09,318 - INFO - Checking first article from page 4: https://www.dunya.com/gundem/bu-tarih-one-cikiyor-2025-yks-ek-tercih-sonuclarini...
+2025-10-01 11:40:09,592 - INFO - Page 4: Article date = 2025-09-30 10:26
+2025-10-01 11:40:09,592 - INFO - Page 4: Date 2025-09-30 >= start date 2025-09-01 - continuing
+2025-10-01 11:40:14,140 - INFO - Page 4: 16 articles saved
+2025-10-01 11:40:14,140 - INFO - 
+--- Processing Page 5 ---
+2025-10-01 11:40:14,140 - INFO - Checking page 5 for dates...
+2025-10-01 11:40:14,452 - INFO - Checking first article from page 5: https://www.dunya.com/gundem/yere-cop-atanlar-tespit-edilip-cezalandirilacak-hab...
+2025-10-01 11:40:14,990 - INFO - Page 5: Article date = 2025-09-29 15:00
+2025-10-01 11:40:14,990 - INFO - Page 5: Date 2025-09-29 >= start date 2025-09-01 - continuing
+2025-10-01 11:40:19,532 - INFO - Page 5: 16 articles saved
+2025-10-01 11:40:19,533 - INFO - 
+--- Processing Page 6 ---
+2025-10-01 11:40:19,533 - INFO - Checking page 6 for dates...
+2025-10-01 11:40:19,835 - INFO - Checking first article from page 6: https://www.dunya.com/gundem/son-depremler-29-eylul-2025-listesi-az-once-deprem-...
+2025-10-01 11:40:20,126 - INFO - Page 6: Article date = 2025-09-29 09:41
+2025-10-01 11:40:20,126 - INFO - Page 6: Date 2025-09-29 >= start date 2025-09-01 - continuing
+2025-10-01 11:40:25,854 - INFO - Page 6: 16 articles saved
+2025-10-01 11:40:25,855 - INFO - 
+--- Processing Page 7 ---
+2025-10-01 11:40:25,855 - INFO - Checking page 7 for dates...
+2025-10-01 11:40:26,142 - INFO - Checking first article from page 7: https://www.dunya.com/gundem/mujdeyi-berlin-buyukelcisi-turan-verdi-almanya-icin...
+2025-10-01 11:40:26,464 - INFO - Page 7: Article date = 2025-09-28 17:32
+2025-10-01 11:40:26,464 - INFO - Page 7: Date 2025-09-28 >= start date 2025-09-01 - continuing
+2025-10-01 11:40:31,473 - INFO - Page 7: 16 articles saved
+2025-10-01 11:40:31,474 - INFO - 
+--- Processing Page 8 ---
+2025-10-01 11:40:31,474 - INFO - Checking page 8 for dates...
+2025-10-01 11:40:31,776 - INFO - Checking first article from page 8: https://www.dunya.com/gundem/dolandiricilar-kargo-kodunu-aldi-170-bin-liralik-ma...
+2025-10-01 11:40:32,031 - INFO - Page 8: Article date = 2025-09-28 12:56
+2025-10-01 11:40:32,031 - INFO - Page 8: Date 2025-09-28 >= start date 2025-09-01 - continuing
+2025-10-01 11:40:37,534 - INFO - Page 8: 16 articles saved
+2025-10-01 11:40:37,534 - INFO - 
+--- Processing Page 9 ---
+2025-10-01 11:40:37,534 - INFO - Checking page 9 for dates...
+2025-10-01 11:40:37,844 - INFO - Checking first article from page 9: https://www.dunya.com/gundem/antalya-buyuksehir-belediyesi-sorusturmasi-3-kisi-e...
+2025-10-01 11:40:38,084 - INFO - Page 9: Article date = 2025-09-27 21:24
+2025-10-01 11:40:38,084 - INFO - Page 9: Date 2025-09-27 >= start date 2025-09-01 - continuing
+2025-10-01 11:40:43,325 - INFO - Page 9: 16 articles saved
+2025-10-01 11:40:43,325 - INFO - 
+--- Processing Page 10 ---
+2025-10-01 11:40:43,325 - INFO - Checking page 10 for dates...
+2025-10-01 11:40:43,623 - INFO - Checking first article from page 10: https://www.dunya.com/gundem/chp-parti-meclisi-kritik-kurultay-sonrasi-ilk-kez-t...
+2025-10-01 11:40:43,875 - INFO - Page 10: Article date = 2025-09-27 14:15
+2025-10-01 11:40:43,875 - INFO - Page 10: Date 2025-09-27 >= start date 2025-09-01 - continuing
+2025-10-01 11:40:48,000 - INFO - Page 10: 14 articles saved
+2025-10-01 11:40:48,000 - INFO - 
+--- Processing Page 11 ---
+2025-10-01 11:40:48,000 - INFO - Checking page 11 for dates...
+2025-10-01 11:40:48,126 - INFO - Checking first article from page 11: https://www.dunya.com/gundem/bakan-fidan-israili-ifsa-etmeliyiz-haberi-795828...
+2025-10-01 11:40:48,393 - INFO - Page 11: Article date = 2025-09-26 20:26
+2025-10-01 11:40:48,393 - INFO - Page 11: Date 2025-09-26 >= start date 2025-09-01 - continuing
+2025-10-01 11:40:52,598 - INFO - Page 11: 15 articles saved
+2025-10-01 11:40:52,598 - INFO - 
+--- Processing Page 12 ---
+2025-10-01 11:40:52,598 - INFO - Checking page 12 for dates...
+2025-10-01 11:40:52,719 - INFO - Checking first article from page 12: https://www.dunya.com/gundem/kpss-lisans-sonuc-tarihi-2025-kpss-lisans-sonuclari...
+2025-10-01 11:40:52,998 - INFO - Page 12: Article date = 2025-09-26 13:43
+2025-10-01 11:40:52,998 - INFO - Page 12: Date 2025-09-26 >= start date 2025-09-01 - continuing
+2025-10-01 11:40:57,497 - INFO - Page 12: 15 articles saved
+2025-10-01 11:40:57,497 - INFO - 
+--- Processing Page 13 ---
+2025-10-01 11:40:57,497 - INFO - Checking page 13 for dates...
+2025-10-01 11:40:57,841 - INFO - Checking first article from page 13: https://www.dunya.com/gundem/naci-gorurden-askale-depremi-sonrasi-kritik-uyari-b...
+2025-10-01 11:40:58,143 - INFO - Page 13: Article date = 2025-09-26 09:20
+2025-10-01 11:40:58,144 - INFO - Page 13: Date 2025-09-26 >= start date 2025-09-01 - continuing
+2025-10-01 11:41:02,657 - INFO - Page 13: 16 articles saved
+2025-10-01 11:41:02,657 - INFO - 
+--- Processing Page 14 ---
+2025-10-01 11:41:02,657 - INFO - Checking page 14 for dates...
+2025-10-01 11:41:02,954 - INFO - Checking first article from page 14: https://www.dunya.com/gundem/meteorolojiden-yagis-ve-firtina-uyarisi-11-il-icin-...
+2025-10-01 11:41:03,215 - INFO - Page 14: Article date = 2025-09-25 15:23
+2025-10-01 11:41:03,215 - INFO - Page 14: Date 2025-09-25 >= start date 2025-09-01 - continuing
+2025-10-01 11:41:07,763 - INFO - Page 14: 15 articles saved
+2025-10-01 11:41:07,763 - INFO - 
+--- Processing Page 15 ---
+2025-10-01 11:41:07,763 - INFO - Checking page 15 for dates...
+2025-10-01 11:41:08,151 - INFO - Checking first article from page 15: https://www.dunya.com/gundem/meteorolojiden-uyari-2-bolgede-saganak-sicaklik-dus...
+2025-10-01 11:41:08,465 - INFO - Page 15: Article date = 2025-09-25 07:34
+2025-10-01 11:41:08,466 - INFO - Page 15: Date 2025-09-25 >= start date 2025-09-01 - continuing
+2025-10-01 11:41:13,158 - INFO - Page 15: 16 articles saved
+2025-10-01 11:41:13,158 - INFO - 
+--- Processing Page 16 ---
+2025-10-01 11:41:13,158 - INFO - Checking page 16 for dates...
+2025-10-01 11:41:13,534 - INFO - Checking first article from page 16: https://www.dunya.com/gundem/ysk-olaganustu-toplanma-karari-aldi-haberi-795456...
+2025-10-01 11:41:13,841 - INFO - Page 16: Article date = 2025-09-24 12:36
+2025-10-01 11:41:13,841 - INFO - Page 16: Date 2025-09-24 >= start date 2025-09-01 - continuing
+2025-10-01 11:41:18,115 - INFO - Page 16: 16 articles saved
+2025-10-01 11:41:18,115 - INFO - 
+--- Processing Page 17 ---
+2025-10-01 11:41:18,115 - INFO - Checking page 17 for dates...
+2025-10-01 11:41:18,421 - INFO - Checking first article from page 17: https://www.dunya.com/gundem/cok-konusulacak-haber-elon-muskin-babasi-cocuklarin...
+2025-10-01 11:41:18,739 - INFO - Page 17: Article date = 2025-09-23 23:20
+2025-10-01 11:41:18,739 - INFO - Page 17: Date 2025-09-23 >= start date 2025-09-01 - continuing
+2025-10-01 11:41:23,711 - INFO - Page 17: 16 articles saved
+2025-10-01 11:41:23,711 - INFO - 
+--- Processing Page 18 ---
+2025-10-01 11:41:23,711 - INFO - Checking page 18 for dates...
+2025-10-01 11:41:24,005 - INFO - Checking first article from page 18: https://www.dunya.com/gundem/bakan-uraloglu-tarihi-hicaz-demiryolu-yeniden-canla...
+2025-10-01 11:41:24,118 - INFO - Page 18: Article date = 2025-09-23 14:24
+2025-10-01 11:41:24,119 - INFO - Page 18: Date 2025-09-23 >= start date 2025-09-01 - continuing
+2025-10-01 11:41:30,186 - INFO - Page 18: 16 articles saved
+2025-10-01 11:41:30,186 - INFO - 
+--- Processing Page 19 ---
+2025-10-01 11:41:30,186 - INFO - Checking page 19 for dates...
+2025-10-01 11:41:30,518 - INFO - Checking first article from page 19: https://www.dunya.com/gundem/mersinde-16-milyonluk-soygun-supheli-damda-uyurken-...
+2025-10-01 11:41:30,799 - INFO - Page 19: Article date = 2025-09-23 08:55
+2025-10-01 11:41:30,799 - INFO - Page 19: Date 2025-09-23 >= start date 2025-09-01 - continuing
+2025-10-01 11:41:36,180 - INFO - Page 19: 16 articles saved
+2025-10-01 11:41:36,180 - INFO - 
+--- Processing Page 20 ---
+2025-10-01 11:41:36,180 - INFO - Checking page 20 for dates...
+2025-10-01 11:41:37,107 - INFO - Checking first article from page 20: https://www.dunya.com/gundem/3-padisah-12-cumhurbaskani-gordu-127-yasindaki-ayse...
+2025-10-01 11:41:37,228 - INFO - Page 20: Article date = 2025-09-22 15:38
+2025-10-01 11:41:37,228 - INFO - Page 20: Date 2025-09-22 >= start date 2025-09-01 - continuing
+2025-10-01 11:41:41,835 - INFO - Page 20: 16 articles saved
+2025-10-01 11:41:41,835 - INFO - 
+--- Processing Page 21 ---
+2025-10-01 11:41:41,835 - INFO - Checking page 21 for dates...
+2025-10-01 11:41:42,180 - INFO - Checking first article from page 21: https://www.dunya.com/gundem/yargitaydan-emsal-karar-baskasinin-numarasini-sosya...
+2025-10-01 11:41:42,468 - INFO - Page 21: Article date = 2025-09-22 11:21
+2025-10-01 11:41:42,468 - INFO - Page 21: Date 2025-09-22 >= start date 2025-09-01 - continuing
+2025-10-01 11:41:47,417 - INFO - Page 21: 16 articles saved
+2025-10-01 11:41:47,417 - INFO - 
+--- Processing Page 22 ---
+2025-10-01 11:41:47,417 - INFO - Checking page 22 for dates...
+2025-10-01 11:41:47,695 - INFO - Checking first article from page 22: https://www.dunya.com/gundem/cumhurbaskani-erdogan-abdye-geldi-haberi-795042...
+2025-10-01 11:41:47,985 - INFO - Page 22: Article date = 2025-09-21 21:00
+2025-10-01 11:41:47,986 - INFO - Page 22: Date 2025-09-21 >= start date 2025-09-01 - continuing
+2025-10-01 11:41:53,264 - INFO - Page 22: 16 articles saved
+2025-10-01 11:41:53,264 - INFO - 
+--- Processing Page 23 ---
+2025-10-01 11:41:53,264 - INFO - Checking page 23 for dates...
+2025-10-01 11:41:53,655 - INFO - Checking first article from page 23: https://www.dunya.com/gundem/muglada-8-plaj-ucretsiz-halkin-kullanimina-acildi-h...
+2025-10-01 11:41:53,950 - INFO - Page 23: Article date = 2025-09-21 15:52
+2025-10-01 11:41:53,950 - INFO - Page 23: Date 2025-09-21 >= start date 2025-09-01 - continuing
+2025-10-01 11:42:00,344 - INFO - Page 23: 16 articles saved
+2025-10-01 11:42:00,344 - INFO - 
+--- Processing Page 24 ---
+2025-10-01 11:42:00,344 - INFO - Checking page 24 for dates...
+2025-10-01 11:42:00,714 - INFO - Checking first article from page 24: https://www.dunya.com/gundem/kazadan-sag-kurtulan-doktorun-korkunc-plani-desifre...
+2025-10-01 11:42:00,742 - INFO - Page 24: Article date = 2025-09-21 09:33
+2025-10-01 11:42:00,742 - INFO - Page 24: Date 2025-09-21 >= start date 2025-09-01 - continuing
+2025-10-01 11:42:05,555 - INFO - Page 24: 15 articles saved
+2025-10-01 11:42:05,556 - INFO - 
+--- Processing Page 25 ---
+2025-10-01 11:42:05,556 - INFO - Checking page 25 for dates...
+2025-10-01 11:42:08,055 - INFO - Checking first article from page 25: https://www.dunya.com/gundem/alanyada-orman-yanginlarini-kontrol-altina-alma-cal...
+2025-10-01 11:42:08,329 - INFO - Page 25: Article date = 2025-09-20 16:36
+2025-10-01 11:42:08,329 - INFO - Page 25: Date 2025-09-20 >= start date 2025-09-01 - continuing
+2025-10-01 11:42:13,169 - INFO - Page 25: 16 articles saved
+2025-10-01 11:42:13,169 - INFO - 
+--- Processing Page 26 ---
+2025-10-01 11:42:13,169 - INFO - Checking page 26 for dates...
+2025-10-01 11:42:13,523 - INFO - Checking first article from page 26: https://www.dunya.com/gundem/rizede-saganak-161-kilogram-yagis-dustu-dereler-tas...
+2025-10-01 11:42:14,042 - INFO - Page 26: Article date = 2025-09-20 08:43
+2025-10-01 11:42:14,042 - INFO - Page 26: Date 2025-09-20 >= start date 2025-09-01 - continuing
+2025-10-01 11:42:20,121 - INFO - Page 26: 16 articles saved
+2025-10-01 11:42:20,121 - INFO - 
+--- Processing Page 27 ---
+2025-10-01 11:42:20,121 - INFO - Checking page 27 for dates...
+2025-10-01 11:42:22,439 - INFO - Checking first article from page 27: https://www.dunya.com/gundem/telefonda-kendini-kamu-gorevlisi-gibi-tanitanlara-6...
+2025-10-01 11:42:22,742 - INFO - Page 27: Article date = 2025-09-19 12:57
+2025-10-01 11:42:22,742 - INFO - Page 27: Date 2025-09-19 >= start date 2025-09-01 - continuing
+2025-10-01 11:42:27,133 - INFO - Page 27: 16 articles saved
+2025-10-01 11:42:27,133 - INFO - 
+--- Processing Page 28 ---
+2025-10-01 11:42:27,133 - INFO - Checking page 28 for dates...
+2025-10-01 11:42:27,499 - INFO - Checking first article from page 28: https://www.dunya.com/gundem/son-dakika-osmaniyede-korkutan-deprem-haberi-794708...
+2025-10-01 11:42:27,758 - INFO - Page 28: Article date = 2025-09-19 00:24
+2025-10-01 11:42:27,758 - INFO - Page 28: Date 2025-09-19 >= start date 2025-09-01 - continuing
+2025-10-01 11:42:33,010 - INFO - Page 28: 16 articles saved
+2025-10-01 11:42:33,010 - INFO - 
+--- Processing Page 29 ---
+2025-10-01 11:42:33,010 - INFO - Checking page 29 for dates...
+2025-10-01 11:42:33,327 - INFO - Checking first article from page 29: https://www.dunya.com/gundem/icisleri-bakanligindan-15-il-icin-sari-kodlu-meteor...
+2025-10-01 11:42:33,732 - INFO - Page 29: Article date = 2025-09-18 13:10
+2025-10-01 11:42:33,732 - INFO - Page 29: Date 2025-09-18 >= start date 2025-09-01 - continuing
+2025-10-01 11:42:38,055 - INFO - Page 29: 15 articles saved
+2025-10-01 11:42:38,055 - INFO - 
+--- Processing Page 30 ---
+2025-10-01 11:42:38,055 - INFO - Checking page 30 for dates...
+2025-10-01 11:42:38,346 - INFO - Checking first article from page 30: https://www.dunya.com/gundem/erken-uyari-sistemleri-kuracak-dayaniklilik-stratej...
+2025-10-01 11:42:38,635 - INFO - Page 30: Article date = 2025-09-18 00:00
+2025-10-01 11:42:38,635 - INFO - Page 30: Date 2025-09-18 >= start date 2025-09-01 - continuing
+2025-10-01 11:42:43,083 - INFO - Page 30: 15 articles saved
+2025-10-01 11:42:43,083 - INFO - 
+--- Processing Page 31 ---
+2025-10-01 11:42:43,083 - INFO - Checking page 31 for dates...
+2025-10-01 11:42:43,400 - INFO - Checking first article from page 31: https://www.dunya.com/gundem/ambulans-gelince-radyoda-muzik-duracak-anons-baslay...
+2025-10-01 11:42:43,737 - INFO - Page 31: Article date = 2025-09-17 12:18
+2025-10-01 11:42:43,737 - INFO - Page 31: Date 2025-09-17 >= start date 2025-09-01 - continuing
+2025-10-01 11:42:48,535 - INFO - Page 31: 16 articles saved
+2025-10-01 11:42:48,535 - INFO - 
+--- Processing Page 32 ---
+2025-10-01 11:42:48,535 - INFO - Checking page 32 for dates...
+2025-10-01 11:42:48,876 - INFO - Checking first article from page 32: https://www.dunya.com/gundem/balikesir-35-buyuklugunde-deprem-ile-sallandi-haber...
+2025-10-01 11:42:49,228 - INFO - Page 32: Article date = 2025-09-16 19:47
+2025-10-01 11:42:49,228 - INFO - Page 32: Date 2025-09-16 >= start date 2025-09-01 - continuing
+2025-10-01 11:42:53,886 - INFO - Page 32: 16 articles saved
+2025-10-01 11:42:53,886 - INFO - 
+--- Processing Page 33 ---
+2025-10-01 11:42:53,886 - INFO - Checking page 33 for dates...
+2025-10-01 11:42:54,251 - INFO - Checking first article from page 33: https://www.dunya.com/gundem/700-yillik-bu-pazarin-unu-sinirlari-asti-peynir-suy...
+2025-10-01 11:42:54,527 - INFO - Page 33: Article date = 2025-09-16 10:44
+2025-10-01 11:42:54,527 - INFO - Page 33: Date 2025-09-16 >= start date 2025-09-01 - continuing
+2025-10-01 11:42:59,625 - INFO - Page 33: 15 articles saved
+2025-10-01 11:42:59,625 - INFO - 
+--- Processing Page 34 ---
+2025-10-01 11:42:59,625 - INFO - Checking page 34 for dates...
+2025-10-01 11:42:59,940 - INFO - Checking first article from page 34: https://www.dunya.com/gundem/cumhurbaskani-erdogan-sdg-10-mart-mutabakatina-uyma...
+2025-10-01 11:43:00,238 - INFO - Page 34: Article date = 2025-09-15 19:32
+2025-10-01 11:43:00,239 - INFO - Page 34: Date 2025-09-15 >= start date 2025-09-01 - continuing
+2025-10-01 11:43:04,792 - INFO - Page 34: 16 articles saved
+2025-10-01 11:43:04,792 - INFO - 
+--- Processing Page 35 ---
+2025-10-01 11:43:04,792 - INFO - Checking page 35 for dates...
+2025-10-01 11:43:05,102 - INFO - Checking first article from page 35: https://www.dunya.com/gundem/kurye-sektorunde-yeni-donem-74-bin-belge-84-bin-tas...
+2025-10-01 11:43:05,449 - INFO - Page 35: Article date = 2025-09-15 10:40
+2025-10-01 11:43:05,450 - INFO - Page 35: Date 2025-09-15 >= start date 2025-09-01 - continuing
+2025-10-01 11:43:10,467 - INFO - Page 35: 16 articles saved
+2025-10-01 11:43:10,468 - INFO - 
+--- Processing Page 36 ---
+2025-10-01 11:43:10,468 - INFO - Checking page 36 for dates...
+2025-10-01 11:43:10,759 - INFO - Checking first article from page 36: https://www.dunya.com/gundem/bu-tesbihe-deger-bicilemiyor-kuran-i-kerimin-604-sa...
+2025-10-01 11:43:11,132 - INFO - Page 36: Article date = 2025-09-14 14:23
+2025-10-01 11:43:11,132 - INFO - Page 36: Date 2025-09-14 >= start date 2025-09-01 - continuing
+2025-10-01 11:43:15,878 - INFO - Page 36: 16 articles saved
+2025-10-01 11:43:15,878 - INFO - 
+--- Processing Page 37 ---
+2025-10-01 11:43:15,878 - INFO - Checking page 37 for dates...
+2025-10-01 11:43:16,191 - INFO - Checking first article from page 37: https://www.dunya.com/gundem/imamoglu-hakkinda-hakaret-sucundan-hazirlanan-iddia...
+2025-10-01 11:43:16,502 - INFO - Page 37: Article date = 2025-09-13 19:37
+2025-10-01 11:43:16,502 - INFO - Page 37: Date 2025-09-13 >= start date 2025-09-01 - continuing
+2025-10-01 11:43:21,499 - INFO - Page 37: 16 articles saved
+2025-10-01 11:43:21,499 - INFO - 
+--- Processing Page 38 ---
+2025-10-01 11:43:21,499 - INFO - Checking page 38 for dates...
+2025-10-01 11:43:21,824 - INFO - Checking first article from page 38: https://www.dunya.com/gundem/gozaltina-alinan-bayrampasa-belediye-baskani-hasan-...
+2025-10-01 11:43:22,081 - INFO - Page 38: Article date = 2025-09-13 10:31
+2025-10-01 11:43:22,081 - INFO - Page 38: Date 2025-09-13 >= start date 2025-09-01 - continuing
+2025-10-01 11:43:26,859 - INFO - Page 38: 16 articles saved
+2025-10-01 11:43:26,859 - INFO - 
+--- Processing Page 39 ---
+2025-10-01 11:43:26,859 - INFO - Checking page 39 for dates...
+2025-10-01 11:43:27,150 - INFO - Checking first article from page 39: https://www.dunya.com/gundem/uraloglu-girilmez-denilen-daglarda-artik-milli-yati...
+2025-10-01 11:43:27,521 - INFO - Page 39: Article date = 2025-09-12 22:08
+2025-10-01 11:43:27,522 - INFO - Page 39: Date 2025-09-12 >= start date 2025-09-01 - continuing
+2025-10-01 11:43:32,081 - INFO - Page 39: 16 articles saved
+2025-10-01 11:43:32,081 - INFO - 
+--- Processing Page 40 ---
+2025-10-01 11:43:32,081 - INFO - Checking page 40 for dates...
+2025-10-01 11:43:32,439 - INFO - Checking first article from page 40: https://www.dunya.com/gundem/bakan-simsekten-genclere-uyari-teknolojiye-hakim-ol...
+2025-10-01 11:43:32,736 - INFO - Page 40: Article date = 2025-09-12 12:29
+2025-10-01 11:43:32,736 - INFO - Page 40: Date 2025-09-12 >= start date 2025-09-01 - continuing
+2025-10-01 11:43:38,028 - INFO - Page 40: 16 articles saved
+2025-10-01 11:43:38,028 - INFO - 
+--- Processing Page 41 ---
+2025-10-01 11:43:38,029 - INFO - Checking page 41 for dates...
+2025-10-01 11:43:38,344 - INFO - Checking first article from page 41: https://www.dunya.com/gundem/bakanlik-koku-sikayetlerine-karsi-harekete-gecti-te...
+2025-10-01 11:43:38,691 - INFO - Page 41: Article date = 2025-09-11 15:58
+2025-10-01 11:43:38,691 - INFO - Page 41: Date 2025-09-11 >= start date 2025-09-01 - continuing
+2025-10-01 11:43:43,327 - INFO - Page 41: 15 articles saved
+2025-10-01 11:43:43,327 - INFO - 
+--- Processing Page 42 ---
+2025-10-01 11:43:43,327 - INFO - Checking page 42 for dates...
+2025-10-01 11:43:43,687 - INFO - Checking first article from page 42: https://www.dunya.com/gundem/nilperi-sahinkayadan-endiselendiren-paylasim-annems...
+2025-10-01 11:43:43,955 - INFO - Page 42: Article date = 2025-09-11 09:21
+2025-10-01 11:43:43,955 - INFO - Page 42: Date 2025-09-11 >= start date 2025-09-01 - continuing
+2025-10-01 11:43:49,541 - INFO - Page 42: 16 articles saved
+2025-10-01 11:43:49,541 - INFO - 
+--- Processing Page 43 ---
+2025-10-01 11:43:49,541 - INFO - Checking page 43 for dates...
+2025-10-01 11:43:49,851 - INFO - Checking first article from page 43: https://www.dunya.com/gundem/bodrumda-planli-su-kesintileri-basliyor-haberi-7935...
+2025-10-01 11:43:50,167 - INFO - Page 43: Article date = 2025-09-10 15:26
+2025-10-01 11:43:50,167 - INFO - Page 43: Date 2025-09-10 >= start date 2025-09-01 - continuing
+2025-10-01 11:43:55,243 - INFO - Page 43: 16 articles saved
+2025-10-01 11:43:55,243 - INFO - 
+--- Processing Page 44 ---
+2025-10-01 11:43:55,243 - INFO - Checking page 44 for dates...
+2025-10-01 11:43:55,579 - INFO - Checking first article from page 44: https://www.dunya.com/gundem/ozlem-vural-gurzel-kimdir-kac-yasinda-ve-nereli-hab...
+2025-10-01 11:43:55,877 - INFO - Page 44: Article date = 2025-09-10 09:58
+2025-10-01 11:43:55,877 - INFO - Page 44: Date 2025-09-10 >= start date 2025-09-01 - continuing
+2025-10-01 11:44:00,786 - INFO - Page 44: 16 articles saved
+2025-10-01 11:44:00,786 - INFO - 
+--- Processing Page 45 ---
+2025-10-01 11:44:00,786 - INFO - Checking page 45 for dates...
+2025-10-01 11:44:01,112 - INFO - Checking first article from page 45: https://www.dunya.com/gundem/osmaniyede-orman-yangini-ekiplerin-mudahalesi-suruy...
+2025-10-01 11:44:01,396 - INFO - Page 45: Article date = 2025-09-09 17:54
+2025-10-01 11:44:01,396 - INFO - Page 45: Date 2025-09-09 >= start date 2025-09-01 - continuing
+2025-10-01 11:44:06,040 - INFO - Page 45: 16 articles saved
+2025-10-01 11:44:06,040 - INFO - 
+--- Processing Page 46 ---
+2025-10-01 11:44:06,040 - INFO - Checking page 46 for dates...
+2025-10-01 11:44:06,374 - INFO - Checking first article from page 46: https://www.dunya.com/gundem/son-depremler-9-eylul-2025-az-once-deprem-mi-oldu-b...
+2025-10-01 11:44:06,679 - INFO - Page 46: Article date = 2025-09-09 10:29
+2025-10-01 11:44:06,679 - INFO - Page 46: Date 2025-09-09 >= start date 2025-09-01 - continuing
+2025-10-01 11:44:10,869 - INFO - Page 46: 14 articles saved
+2025-10-01 11:44:10,870 - INFO - 
+--- Processing Page 47 ---
+2025-10-01 11:44:10,870 - INFO - Checking page 47 for dates...
+2025-10-01 11:44:11,176 - INFO - Checking first article from page 47: https://www.dunya.com/gundem/son-dakika-erdogandan-ovp-aciklamasi-enflasyonu-tek...
+2025-10-01 11:44:11,475 - INFO - Page 47: Article date = 2025-09-08 19:19
+2025-10-01 11:44:11,476 - INFO - Page 47: Date 2025-09-08 >= start date 2025-09-01 - continuing
+2025-10-01 11:44:16,353 - INFO - Page 47: 15 articles saved
+2025-10-01 11:44:16,353 - INFO - 
+--- Processing Page 48 ---
+2025-10-01 11:44:16,353 - INFO - Checking page 48 for dates...
+2025-10-01 11:44:16,703 - INFO - Checking first article from page 48: https://www.dunya.com/gundem/izmirdeki-karakol-saldirisi-sonrasi-rtukten-yayinci...
+2025-10-01 11:44:17,002 - INFO - Page 48: Article date = 2025-09-08 12:08
+2025-10-01 11:44:17,002 - INFO - Page 48: Date 2025-09-08 >= start date 2025-09-01 - continuing
+2025-10-01 11:44:21,915 - INFO - Page 48: 16 articles saved
+2025-10-01 11:44:21,915 - INFO - 
+--- Processing Page 49 ---
+2025-10-01 11:44:21,915 - INFO - Checking page 49 for dates...
+2025-10-01 11:44:22,262 - INFO - Checking first article from page 49: https://www.dunya.com/gundem/balikesirde-4-buyuklugunde-deprem-haberi-793102...
+2025-10-01 11:44:22,539 - INFO - Page 49: Article date = 2025-09-07 20:59
+2025-10-01 11:44:22,539 - INFO - Page 49: Date 2025-09-07 >= start date 2025-09-01 - continuing
+2025-10-01 11:44:27,619 - INFO - Page 49: 16 articles saved
+2025-10-01 11:44:27,619 - INFO - 
+--- Processing Page 50 ---
+2025-10-01 11:44:27,619 - INFO - Checking page 50 for dates...
+2025-10-01 11:44:27,930 - INFO - Checking first article from page 50: https://www.dunya.com/gundem/sapanca-golunde-5-ay-sonra-su-seviyesi-4-santimetre...
+2025-10-01 11:44:28,216 - INFO - Page 50: Article date = 2025-09-07 15:06
+2025-10-01 11:44:28,216 - INFO - Page 50: Date 2025-09-07 >= start date 2025-09-01 - continuing
+2025-10-01 11:44:33,150 - INFO - Page 50: 16 articles saved
+2025-10-01 11:44:33,150 - INFO - 
+--- Processing Page 51 ---
+2025-10-01 11:44:33,150 - INFO - Checking page 51 for dates...
+2025-10-01 11:44:33,467 - INFO - Checking first article from page 51: https://www.dunya.com/gundem/kapalicarsida-144-milyon-tllik-altin-vurgunu-calisa...
+2025-10-01 11:44:33,786 - INFO - Page 51: Article date = 2025-09-07 10:11
+2025-10-01 11:44:33,786 - INFO - Page 51: Date 2025-09-07 >= start date 2025-09-01 - continuing
+2025-10-01 11:44:38,405 - INFO - Page 51: 16 articles saved
+2025-10-01 11:44:38,405 - INFO - 
+--- Processing Page 52 ---
+2025-10-01 11:44:38,405 - INFO - Checking page 52 for dates...
+2025-10-01 11:44:38,703 - INFO - Checking first article from page 52: https://www.dunya.com/gundem/istanbulda-yagis-ve-kazalar-trafigi-felc-etti-yogun...
+2025-10-01 11:44:38,993 - INFO - Page 52: Article date = 2025-09-06 15:55
+2025-10-01 11:44:38,993 - INFO - Page 52: Date 2025-09-06 >= start date 2025-09-01 - continuing
+2025-10-01 11:44:43,617 - INFO - Page 52: 16 articles saved
+2025-10-01 11:44:43,617 - INFO - 
+--- Processing Page 53 ---
+2025-10-01 11:44:43,617 - INFO - Checking page 53 for dates...
+2025-10-01 11:44:43,907 - INFO - Checking first article from page 53: https://www.dunya.com/gundem/musa-kulaklikaya-disislerine-bakan-yardimcisi-olara...
+2025-10-01 11:44:44,181 - INFO - Page 53: Article date = 2025-09-06 08:40
+2025-10-01 11:44:44,181 - INFO - Page 53: Date 2025-09-06 >= start date 2025-09-01 - continuing
+2025-10-01 11:44:48,945 - INFO - Page 53: 16 articles saved
+2025-10-01 11:44:48,945 - INFO - 
+--- Processing Page 54 ---
+2025-10-01 11:44:48,945 - INFO - Checking page 54 for dates...
+2025-10-01 11:44:49,323 - INFO - Checking first article from page 54: https://www.dunya.com/gundem/istanbul-dahil-8-ilde-sari-alarm-meteoroloji-ve-ako...
+2025-10-01 11:44:49,682 - INFO - Page 54: Article date = 2025-09-05 14:46
+2025-10-01 11:44:49,682 - INFO - Page 54: Date 2025-09-05 >= start date 2025-09-01 - continuing
+2025-10-01 11:44:54,386 - INFO - Page 54: 16 articles saved
+2025-10-01 11:44:54,387 - INFO - 
+--- Processing Page 55 ---
+2025-10-01 11:44:54,387 - INFO - Checking page 55 for dates...
+2025-10-01 11:44:54,747 - INFO - Checking first article from page 55: https://www.dunya.com/gundem/assan-group-sorusturmasinda-3-yeni-gozalti-haberi-7...
+2025-10-01 11:44:55,105 - INFO - Page 55: Article date = 2025-09-05 09:52
+2025-10-01 11:44:55,110 - INFO - Page 55: Date 2025-09-05 >= start date 2025-09-01 - continuing
+2025-10-01 11:45:00,175 - INFO - Page 55: 16 articles saved
+2025-10-01 11:45:00,176 - INFO - 
+--- Processing Page 56 ---
+2025-10-01 11:45:00,176 - INFO - Checking page 56 for dates...
+2025-10-01 11:45:00,470 - INFO - Checking first article from page 56: https://www.dunya.com/gundem/tehlikede-oldugunu-belirtmisti-turk-bilim-insani-dr...
+2025-10-01 11:45:00,791 - INFO - Page 56: Article date = 2025-09-04 12:41
+2025-10-01 11:45:00,791 - INFO - Page 56: Date 2025-09-04 >= start date 2025-09-01 - continuing
+2025-10-01 11:45:05,177 - INFO - Page 56: 15 articles saved
+2025-10-01 11:45:05,177 - INFO - 
+--- Processing Page 57 ---
+2025-10-01 11:45:05,177 - INFO - Checking page 57 for dates...
+2025-10-01 11:45:05,506 - INFO - Checking first article from page 57: https://www.dunya.com/gundem/abdde-gunlerdir-haber-alinamayan-dr-furkan-dolek-bu...
+2025-10-01 11:45:05,804 - INFO - Page 57: Article date = 2025-09-03 22:00
+2025-10-01 11:45:05,804 - INFO - Page 57: Date 2025-09-03 >= start date 2025-09-01 - continuing
+2025-10-01 11:45:10,760 - INFO - Page 57: 16 articles saved
+2025-10-01 11:45:10,761 - INFO - 
+--- Processing Page 58 ---
+2025-10-01 11:45:10,761 - INFO - Checking page 58 for dates...
+2025-10-01 11:45:11,062 - INFO - Checking first article from page 58: https://www.dunya.com/gundem/ozgur-ozelden-gursel-tekine-sert-yanit-bu-karari-ta...
+2025-10-01 11:45:11,364 - INFO - Page 58: Article date = 2025-09-03 13:34
+2025-10-01 11:45:11,365 - INFO - Page 58: Date 2025-09-03 >= start date 2025-09-01 - continuing
+2025-10-01 11:45:16,151 - INFO - Page 58: 15 articles saved
+2025-10-01 11:45:16,152 - INFO - 
+--- Processing Page 59 ---
+2025-10-01 11:45:16,152 - INFO - Checking page 59 for dates...
+2025-10-01 11:45:16,460 - INFO - Checking first article from page 59: https://www.dunya.com/gundem/40-milyon-liralik-yat-denize-iner-inmez-batti-haber...
+2025-10-01 11:45:16,823 - INFO - Page 59: Article date = 2025-09-02 23:01
+2025-10-01 11:45:16,823 - INFO - Page 59: Date 2025-09-02 >= start date 2025-09-01 - continuing
+2025-10-01 11:45:22,520 - INFO - Page 59: 15 articles saved
+2025-10-01 11:45:22,520 - INFO - 
+--- Processing Page 60 ---
+2025-10-01 11:45:22,520 - INFO - Checking page 60 for dates...
+2025-10-01 11:45:23,019 - INFO - Checking first article from page 60: https://www.dunya.com/gundem/coca-cola-fanta-sprite-gazli-iceceklerde-eylul-zamm...
+2025-10-01 11:45:23,371 - INFO - Page 60: Article date = 2025-09-02 13:55
+2025-10-01 11:45:23,372 - INFO - Page 60: Date 2025-09-02 >= start date 2025-09-01 - continuing
+2025-10-01 11:45:28,495 - INFO - Page 60: 15 articles saved
+2025-10-01 11:45:28,496 - INFO - 
+--- Processing Page 61 ---
+2025-10-01 11:45:28,496 - INFO - Checking page 61 for dates...
+2025-10-01 11:45:28,839 - INFO - Checking first article from page 61: https://www.dunya.com/gundem/bagcilarda-istoc-ticaret-merkezi-yangin-17-is-yeri-...
+2025-10-01 11:45:29,127 - INFO - Page 61: Article date = 2025-09-02 07:44
+2025-10-01 11:45:29,127 - INFO - Page 61: Date 2025-09-02 >= start date 2025-09-01 - continuing
+2025-10-01 11:45:34,438 - INFO - Page 61: 16 articles saved
+2025-10-01 11:45:34,439 - INFO - 
+--- Processing Page 62 ---
+2025-10-01 11:45:34,439 - INFO - Checking page 62 for dates...
+2025-10-01 11:45:34,772 - INFO - Checking first article from page 62: https://www.dunya.com/gundem/otomobil-taksi-otobus-primler-guncellendi-trafik-si...
+2025-10-01 11:45:35,124 - INFO - Page 62: Article date = 2025-09-01 13:09
+2025-10-01 11:45:35,124 - INFO - Page 62: Date 2025-09-01 >= start date 2025-09-01 - continuing
+2025-10-01 11:45:39,930 - INFO - Page 62: 15 articles saved
+2025-10-01 11:45:39,930 - INFO - 
+--- Processing Page 63 ---
+2025-10-01 11:45:39,930 - INFO - Checking page 63 for dates...
+2025-10-01 11:45:40,306 - INFO - Checking first article from page 63: https://www.dunya.com/gundem/kastamonuda-korkunc-kaza-cok-sayida-olu-ve-yarali-v...
+2025-10-01 11:45:40,641 - INFO - Page 63: Article date = 2025-08-31 23:14
+2025-10-01 11:45:40,641 - INFO - Page 63: Reached start date (2025-08-31) - stopping
+2025-10-01 11:45:40,641 - INFO - === SCRAPING COMPLETE ===
+2025-10-01 11:45:40,641 - INFO - Total articles saved: 957
+2025-10-01 11:45:40,641 - INFO - FINAL SUMMARY - Time: 0:05:42.664830, Articles: 957

@@ -1,0 +1,10 @@
+playwright
+requests
+beautifulsoup4
+aiohttp
+lxml
+rich
+mysql-connector-python
+PyMySQL
+Flask
+gunicorn

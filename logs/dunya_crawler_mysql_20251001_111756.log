@@ -1,0 +1,523 @@
+2025-10-01 11:17:56,060 - INFO - Dunya Crawler MySQL initialized
+2025-10-01 11:17:56,071 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:17:56,071 - INFO - Failed to connect to MySQL database
+2025-10-01 11:17:56,072 - INFO - Target date range: 2025-09-01 to 2025-10-01
+2025-10-01 11:17:56,072 - INFO - Phase 1: Finding target page
+2025-10-01 11:17:56,072 - INFO - === TWO-PHASE ADAPTIVE SEARCH ===
+2025-10-01 11:17:56,072 - INFO - Looking for end date: 2025-10-01
+2025-10-01 11:17:56,072 - INFO - Phase 1: Adaptive jumping to get close to target...
+2025-10-01 11:17:56,072 - INFO - Starting adaptive jumping from page 1 with jump size 1
+2025-10-01 11:17:56,072 - INFO - Jumping from page 1 to page 2 (jump size: 1)
+2025-10-01 11:17:56,072 - INFO - Checking page 2 for dates...
+2025-10-01 11:17:56,171 - INFO - Checking first article from page 2: https://www.dunya.com/gundem/azalan-dogum-orani-hukumeti-alarma-gecirdi-anne-ve-...
+2025-10-01 11:17:56,287 - INFO - Page 2: Article date = 2025-10-01 08:39
+2025-10-01 11:17:56,288 - INFO - Page 2: Date range = 2025-10-01 to 2025-10-01
+2025-10-01 11:17:56,288 - INFO - Distance from target: 0 days (comparing dates only)
+2025-10-01 11:17:56,288 - INFO - FOUND EXACT TARGET! Page 2 has date 2025-10-01 = target 2025-10-01
+2025-10-01 11:17:56,288 - INFO - Phase 2: Found target page for scraping
+2025-10-01 11:17:56,288 - INFO - Found target page: 2
+2025-10-01 11:17:56,288 - INFO - === IMMEDIATE SCRAPING FROM PAGE 2 ===
+2025-10-01 11:17:56,288 - INFO - Starting from page 2 and going forward until we reach start date 2025-09-01
+2025-10-01 11:17:56,288 - INFO - 
+--- Processing Page 2 ---
+2025-10-01 11:17:56,288 - INFO - Checking page 2 for dates...
+2025-10-01 11:17:56,319 - INFO - Checking first article from page 2: https://www.dunya.com/gundem/azalan-dogum-orani-hukumeti-alarma-gecirdi-anne-ve-...
+2025-10-01 11:17:56,344 - INFO - Page 2: Article date = 2025-10-01 08:39
+2025-10-01 11:17:56,344 - INFO - Page 2: Date 2025-10-01 >= start date 2025-09-01 - continuing
+2025-10-01 11:17:56,411 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:17:56,759 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:17:56,885 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:17:57,221 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:17:57,556 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:17:57,690 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:17:58,027 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:17:58,386 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:17:58,683 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:17:59,033 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:17:59,313 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:17:59,438 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:17:59,774 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:00,055 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:00,323 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:00,625 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:00,625 - INFO - Page 2: 0 articles saved
+2025-10-01 11:18:00,626 - INFO - 
+--- Processing Page 3 ---
+2025-10-01 11:18:00,626 - INFO - Checking page 3 for dates...
+2025-10-01 11:18:00,688 - INFO - Checking first article from page 3: https://www.dunya.com/gundem/meteoroloji-uyardi-yeni-yagisli-sistem-geliyor-bati...
+2025-10-01 11:18:00,985 - INFO - Page 3: Article date = 2025-09-30 15:09
+2025-10-01 11:18:00,985 - INFO - Page 3: Date 2025-09-30 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:01,046 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:01,175 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:01,511 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:01,634 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:01,999 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:02,329 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:02,449 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:02,753 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:03,066 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:03,198 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:03,594 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:03,895 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:04,222 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:04,582 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:04,966 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:04,966 - INFO - Page 3: 0 articles saved
+2025-10-01 11:18:04,966 - INFO - 
+--- Processing Page 4 ---
+2025-10-01 11:18:04,966 - INFO - Checking page 4 for dates...
+2025-10-01 11:18:05,076 - INFO - Checking first article from page 4: https://www.dunya.com/gundem/kapadokyada-arazi-aracli-turlara-kota-sinirlamasi-h...
+2025-10-01 11:18:05,353 - INFO - Page 4: Article date = 2025-09-30 09:59
+2025-10-01 11:18:05,353 - INFO - Page 4: Date 2025-09-30 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:05,454 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:05,783 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:06,070 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:06,365 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:06,668 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:06,948 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:07,686 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:08,001 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:08,370 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:08,679 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:08,939 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:09,264 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:09,548 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:09,860 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:09,982 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:10,278 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:10,279 - INFO - Page 4: 0 articles saved
+2025-10-01 11:18:10,279 - INFO - 
+--- Processing Page 5 ---
+2025-10-01 11:18:10,279 - INFO - Checking page 5 for dates...
+2025-10-01 11:18:10,395 - INFO - Checking first article from page 5: https://www.dunya.com/gundem/tus-tercihleri-basladi-tus-2-donem-kontenjanlari-ve...
+2025-10-01 11:18:10,669 - INFO - Page 5: Article date = 2025-09-29 14:37
+2025-10-01 11:18:10,669 - INFO - Page 5: Date 2025-09-29 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:10,730 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:11,026 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:11,351 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:11,652 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:11,970 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:12,295 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:12,612 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:12,897 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:13,172 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:13,541 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:13,665 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:14,018 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:14,145 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:14,269 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:14,578 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:14,874 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:14,874 - INFO - Page 5: 0 articles saved
+2025-10-01 11:18:14,874 - INFO - 
+--- Processing Page 6 ---
+2025-10-01 11:18:14,874 - INFO - Checking page 6 for dates...
+2025-10-01 11:18:15,172 - INFO - Checking first article from page 6: https://www.dunya.com/gundem/istanbul-felc-oldu-yuzde-85-haberi-796080...
+2025-10-01 11:18:15,487 - INFO - Page 6: Article date = 2025-09-29 08:57
+2025-10-01 11:18:15,488 - INFO - Page 6: Date 2025-09-29 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:15,553 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:15,899 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:16,218 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:16,580 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:16,700 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:16,969 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:17,389 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:17,704 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:17,990 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:18,247 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:18,514 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:18,814 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:19,107 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:19,419 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:19,746 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:20,105 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:20,105 - INFO - Page 6: 0 articles saved
+2025-10-01 11:18:20,105 - INFO - 
+--- Processing Page 7 ---
+2025-10-01 11:18:20,105 - INFO - Checking page 7 for dates...
+2025-10-01 11:18:20,382 - INFO - Checking first article from page 7: https://www.dunya.com/gundem/yarin-hava-nasil-olacak-29-eylul-pazartesi-yagmur-y...
+2025-10-01 11:18:20,643 - INFO - Page 7: Article date = 2025-09-28 17:00
+2025-10-01 11:18:20,644 - INFO - Page 7: Date 2025-09-28 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:20,704 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:21,008 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:21,347 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:21,732 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:22,051 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:22,454 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:22,490 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:22,796 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:23,192 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:23,559 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:23,842 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:24,150 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:24,279 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:24,579 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:24,940 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:25,202 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:25,202 - INFO - Page 7: 0 articles saved
+2025-10-01 11:18:25,203 - INFO - 
+--- Processing Page 8 ---
+2025-10-01 11:18:25,203 - INFO - Checking page 8 for dates...
+2025-10-01 11:18:25,610 - INFO - Checking first article from page 8: https://www.dunya.com/gundem/kpss-lisans-sonuc-tarihi-kpss-lisans-sonuclari-ne-z...
+2025-10-01 11:18:25,891 - INFO - Page 8: Article date = 2025-09-28 12:15
+2025-10-01 11:18:25,892 - INFO - Page 8: Date 2025-09-28 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:25,957 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:26,253 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:26,550 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:26,880 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:27,190 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:27,698 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:28,039 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:28,385 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:28,716 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:28,995 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:29,568 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:30,159 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:30,436 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:30,753 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:31,056 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:31,391 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:31,391 - INFO - Page 8: 0 articles saved
+2025-10-01 11:18:31,391 - INFO - 
+--- Processing Page 9 ---
+2025-10-01 11:18:31,391 - INFO - Checking page 9 for dates...
+2025-10-01 11:18:31,743 - INFO - Checking first article from page 9: https://www.dunya.com/gundem/son-dakika-karsta-korkutan-deprem-haberi-795939...
+2025-10-01 11:18:32,138 - INFO - Page 9: Article date = 2025-09-27 19:26
+2025-10-01 11:18:32,138 - INFO - Page 9: Date 2025-09-27 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:32,205 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:32,464 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:32,805 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:33,073 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:33,369 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:33,671 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:34,014 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:34,352 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:34,638 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:34,967 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:35,539 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:35,933 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:36,409 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:36,750 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:37,055 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:37,056 - INFO - Page 9: 0 articles saved
+2025-10-01 11:18:37,056 - INFO - 
+--- Processing Page 10 ---
+2025-10-01 11:18:37,056 - INFO - Checking page 10 for dates...
+2025-10-01 11:18:37,367 - INFO - Checking first article from page 10: https://www.dunya.com/gundem/edirne-ve-kirklarelinde-duzensiz-gocmen-operasyonu-...
+2025-10-01 11:18:37,700 - INFO - Page 10: Article date = 2025-09-27 13:41
+2025-10-01 11:18:37,700 - INFO - Page 10: Date 2025-09-27 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:37,763 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:38,105 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:38,522 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:38,789 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:39,106 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:39,617 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:39,900 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:40,216 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:40,541 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:40,941 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:41,256 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:41,384 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:41,744 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:41,866 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:42,120 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:42,120 - INFO - Page 10: 0 articles saved
+2025-10-01 11:18:42,120 - INFO - 
+--- Processing Page 11 ---
+2025-10-01 11:18:42,120 - INFO - Checking page 11 for dates...
+2025-10-01 11:18:42,464 - INFO - Checking first article from page 11: https://www.dunya.com/gundem/abb-sorusturmasi-9-kisiye-tutuklama-talebi-haberi-7...
+2025-10-01 11:18:42,772 - INFO - Page 11: Article date = 2025-09-26 19:05
+2025-10-01 11:18:42,772 - INFO - Page 11: Date 2025-09-26 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:42,833 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:43,132 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:43,406 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:43,783 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:44,074 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:44,406 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:45,009 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:45,346 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:45,644 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:45,938 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:46,347 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:46,414 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:46,486 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:46,558 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:46,629 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:46,629 - INFO - Page 11: 0 articles saved
+2025-10-01 11:18:46,629 - INFO - 
+--- Processing Page 12 ---
+2025-10-01 11:18:46,629 - INFO - Checking page 12 for dates...
+2025-10-01 11:18:46,932 - INFO - Checking first article from page 12: https://www.dunya.com/gundem/uc-3-aylar-ne-zaman-basliyor-regaib-kandili-ne-zama...
+2025-10-01 11:18:46,995 - INFO - Page 12: Article date = 2025-09-26 12:44
+2025-10-01 11:18:46,996 - INFO - Page 12: Date 2025-09-26 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:47,063 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:47,135 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:47,201 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:47,270 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:47,336 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:47,404 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:47,478 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:47,546 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:47,618 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:47,690 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:47,757 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:47,830 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:47,901 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:47,968 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:48,037 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:48,038 - INFO - Page 12: 0 articles saved
+2025-10-01 11:18:48,038 - INFO - 
+--- Processing Page 13 ---
+2025-10-01 11:18:48,038 - INFO - Checking page 13 for dates...
+2025-10-01 11:18:48,353 - INFO - Checking first article from page 13: https://www.dunya.com/gundem/sanatci-gullu-balkondan-duserek-hayatini-kaybetti-h...
+2025-10-01 11:18:48,472 - INFO - Page 13: Article date = 2025-09-26 07:57
+2025-10-01 11:18:48,473 - INFO - Page 13: Date 2025-09-26 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:48,538 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:48,698 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:48,820 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:48,949 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:49,068 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:49,187 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:49,305 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:49,429 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:49,807 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:49,973 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:50,093 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:50,208 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:50,347 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:50,475 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:50,794 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:50,911 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:50,911 - INFO - Page 13: 0 articles saved
+2025-10-01 11:18:50,912 - INFO - 
+--- Processing Page 14 ---
+2025-10-01 11:18:50,912 - INFO - Checking page 14 for dates...
+2025-10-01 11:18:51,338 - INFO - Checking first article from page 14: https://www.dunya.com/gundem/bakan-uraloglu-turkiye-denizcilikte-dunya-ilk-10una...
+2025-10-01 11:18:51,455 - INFO - Page 14: Article date = 2025-09-25 12:55
+2025-10-01 11:18:51,455 - INFO - Page 14: Date 2025-09-25 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:51,522 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:51,803 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:51,936 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:52,071 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:52,192 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:52,313 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:52,429 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:52,553 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:52,686 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:52,803 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:52,938 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:53,059 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:53,191 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:53,317 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:53,438 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:53,438 - INFO - Page 14: 0 articles saved
+2025-10-01 11:18:53,438 - INFO - 
+--- Processing Page 15 ---
+2025-10-01 11:18:53,438 - INFO - Checking page 15 for dates...
+2025-10-01 11:18:53,733 - INFO - Checking first article from page 15: https://www.dunya.com/gundem/cumhurbaskani-erdogan-ekonomide-uygulayacagimiz-pol...
+2025-10-01 11:18:53,853 - INFO - Page 15: Article date = 2025-09-24 21:53
+2025-10-01 11:18:53,853 - INFO - Page 15: Date 2025-09-24 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:53,914 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:54,034 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:54,151 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:54,280 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:54,406 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:54,531 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:54,647 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:54,769 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:54,908 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:55,028 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:55,151 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:55,217 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:55,338 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:55,469 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:55,600 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:55,720 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:55,720 - INFO - Page 15: 0 articles saved
+2025-10-01 11:18:55,720 - INFO - 
+--- Processing Page 16 ---
+2025-10-01 11:18:55,720 - INFO - Checking page 16 for dates...
+2025-10-01 11:18:56,050 - INFO - Checking first article from page 16: https://www.dunya.com/gundem/kyk-burs-basvurulari-ne-zaman-basliyor-kyk-burs-ve-...
+2025-10-01 11:18:56,169 - INFO - Page 16: Article date = 2025-09-24 11:31
+2025-10-01 11:18:56,169 - INFO - Page 16: Date 2025-09-24 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:56,237 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:56,367 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:56,493 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:56,611 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:56,726 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:56,860 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:56,983 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:57,111 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:57,232 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:57,363 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:57,640 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:57,773 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:57,908 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:58,029 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:58,162 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:58,290 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:58,290 - INFO - Page 16: 0 articles saved
+2025-10-01 11:18:58,290 - INFO - 
+--- Processing Page 17 ---
+2025-10-01 11:18:58,290 - INFO - Checking page 17 for dates...
+2025-10-01 11:18:58,878 - INFO - Checking first article from page 17: https://www.dunya.com/gundem/yilmaz-cumhurbaskanimiz-bmde-insanligin-ortak-vicda...
+2025-10-01 11:18:58,988 - INFO - Page 17: Article date = 2025-09-23 21:27
+2025-10-01 11:18:58,988 - INFO - Page 17: Date 2025-09-23 >= start date 2025-09-01 - continuing
+2025-10-01 11:18:59,049 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:59,174 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:59,571 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:59,689 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:59,811 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:18:59,945 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:00,077 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:00,224 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:00,352 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:00,479 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:00,600 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:00,727 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:00,863 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:00,993 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:01,115 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:01,253 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:01,254 - INFO - Page 17: 0 articles saved
+2025-10-01 11:19:01,254 - INFO - 
+--- Processing Page 18 ---
+2025-10-01 11:19:01,254 - INFO - Checking page 18 for dates...
+2025-10-01 11:19:01,587 - INFO - Checking first article from page 18: https://www.dunya.com/gundem/ibbden-metro-aciklamasi-iki-hat-icin-tarih-verildi-...
+2025-10-01 11:19:01,707 - INFO - Page 18: Article date = 2025-09-23 13:54
+2025-10-01 11:19:01,707 - INFO - Page 18: Date 2025-09-23 >= start date 2025-09-01 - continuing
+2025-10-01 11:19:01,774 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:01,894 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:02,033 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:02,176 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:02,300 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:02,430 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:02,559 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:02,705 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:02,836 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:02,964 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:03,082 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:03,211 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:03,451 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:03,590 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:03,717 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:03,841 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:03,841 - INFO - Page 18: 0 articles saved
+2025-10-01 11:19:03,841 - INFO - 
+--- Processing Page 19 ---
+2025-10-01 11:19:03,841 - INFO - Checking page 19 for dates...
+2025-10-01 11:19:04,125 - INFO - Checking first article from page 19: https://www.dunya.com/gundem/ankara-buyuksehir-belediyesine-operasyon-13-kisi-go...
+2025-10-01 11:19:04,454 - INFO - Page 19: Article date = 2025-09-23 08:25
+2025-10-01 11:19:04,454 - INFO - Page 19: Date 2025-09-23 >= start date 2025-09-01 - continuing
+2025-10-01 11:19:04,518 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:04,639 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:04,763 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:04,884 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:05,011 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:05,128 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:05,247 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:05,381 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:05,526 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:05,644 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:05,758 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:05,913 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:06,040 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:06,154 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:06,270 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:06,391 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:06,391 - INFO - Page 19: 0 articles saved
+2025-10-01 11:19:06,391 - INFO - 
+--- Processing Page 20 ---
+2025-10-01 11:19:06,391 - INFO - Checking page 20 for dates...
+2025-10-01 11:19:06,778 - INFO - Checking first article from page 20: https://www.dunya.com/gundem/izmirde-nakliye-asansorunden-dusen-koltuk-can-aldi-...
+2025-10-01 11:19:06,889 - INFO - Page 20: Article date = 2025-09-22 15:25
+2025-10-01 11:19:06,889 - INFO - Page 20: Date 2025-09-22 >= start date 2025-09-01 - continuing
+2025-10-01 11:19:06,947 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:07,069 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:07,194 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:07,323 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:07,442 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:07,561 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:07,686 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:07,814 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:07,939 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:08,071 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:08,186 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:08,316 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:08,431 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:08,552 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:08,673 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:08,798 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:08,798 - INFO - Page 20: 0 articles saved
+2025-10-01 11:19:08,798 - INFO - 
+--- Processing Page 21 ---
+2025-10-01 11:19:08,798 - INFO - Checking page 21 for dates...
+2025-10-01 11:19:09,162 - INFO - Checking first article from page 21: https://www.dunya.com/gundem/naci-gorurden-konya-depremi-sonrasi-uyari-buyuk-dep...
+2025-10-01 11:19:09,287 - INFO - Page 21: Article date = 2025-09-22 10:38
+2025-10-01 11:19:09,287 - INFO - Page 21: Date 2025-09-22 >= start date 2025-09-01 - continuing
+2025-10-01 11:19:09,356 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:09,480 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:09,657 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:09,781 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:09,907 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:10,031 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:10,157 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:10,273 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:10,405 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:10,489 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:10,613 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:10,734 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:10,855 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:11,097 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:11,221 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:11,340 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:11,340 - INFO - Page 21: 0 articles saved
+2025-10-01 11:19:11,340 - INFO - 
+--- Processing Page 22 ---
+2025-10-01 11:19:11,340 - INFO - Checking page 22 for dates...
+2025-10-01 11:19:11,662 - INFO - Checking first article from page 22: https://www.dunya.com/gundem/bakan-uraloglu-selden-etkilenen-rizedeki-son-durumu...
+2025-10-01 11:19:11,780 - INFO - Page 22: Article date = 2025-09-21 19:47
+2025-10-01 11:19:11,780 - INFO - Page 22: Date 2025-09-21 >= start date 2025-09-01 - continuing
+2025-10-01 11:19:11,848 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:11,976 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:12,096 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:12,221 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:12,344 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:12,465 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:12,593 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:12,717 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:12,841 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:12,958 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:13,072 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:13,198 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:13,350 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:13,478 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:13,596 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:13,714 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:13,714 - INFO - Page 22: 0 articles saved
+2025-10-01 11:19:13,714 - INFO - 
+--- Processing Page 23 ---
+2025-10-01 11:19:13,714 - INFO - Checking page 23 for dates...
+2025-10-01 11:19:14,022 - INFO - Checking first article from page 23: https://www.dunya.com/gundem/bakan-yumakli-mugla-ve-antalyadaki-orman-yanginlari...
+2025-10-01 11:19:14,142 - INFO - Page 23: Article date = 2025-09-21 14:55
+2025-10-01 11:19:14,142 - INFO - Page 23: Date 2025-09-21 >= start date 2025-09-01 - continuing
+2025-10-01 11:19:14,203 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:14,328 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:14,447 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:14,575 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:14,692 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:14,814 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:14,935 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:15,047 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:15,176 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:15,302 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:15,423 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:15,665 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:15,787 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:15,908 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:16,027 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:16,159 - INFO - MySQL connection error: 1698 (28000): Access denied for user 'root'@'localhost'
+2025-10-01 11:19:16,159 - INFO - Page 23: 0 articles saved
+2025-10-01 11:19:16,159 - INFO - 
+--- Processing Page 24 ---
+2025-10-01 11:19:16,159 - INFO - Checking page 24 for dates...

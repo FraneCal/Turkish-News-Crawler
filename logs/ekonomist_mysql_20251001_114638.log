@@ -1,0 +1,49 @@
+2025-10-01 11:46:38,572 - INFO - Ekonomist Crawler MySQL initialized
+2025-10-01 11:46:38,591 - INFO - MySQL database tables initialized for Ekonomist crawler
+2025-10-01 11:46:38,592 - INFO - Session configured
+2025-10-01 11:46:38,592 - INFO - Pages to crawl: 1 to 5
+2025-10-01 11:46:38,592 - INFO - Fetching page 1 from API...
+2025-10-01 11:46:39,187 - INFO - Found 24 div.mb-4 elements
+2025-10-01 11:46:39,187 - INFO - Found article: Almanya'da Eylül ayında yıllık enflasyon yüzde 2,4... -> /dunya/almanya-da-eylul-ayinda-yillik-enflasyon-yuzde-2-4-oldu-65767
+2025-10-01 11:46:39,187 - INFO - Found article: Krallık kurup tanrıça olmak istiyordu: 128 bin kiş... -> /dunya/5-milyar-sterlinlik-sir-bitcoin-vurgununun-arkasindaki-servet-tanricasi-kim--65749
+2025-10-01 11:46:39,188 - INFO - Found article: Dev havayolu 4 bin kişiyi işten çıkartıyor... -> /dunya/dev-havayolu-sirketinde-tasarruf-tedbiri-idari-islerde-4-bin-kisi-isten-cikariliyor-65707
+2025-10-01 11:46:39,188 - INFO - Found article: Merkez bankaları yılın son çeyreğine temkinli adım... -> /dunya/merkez-bankalari-yilin-son-ceyregine-temkinli-adimlarla-giriyor-65703
+2025-10-01 11:46:39,188 - INFO - Found article: Pezeşkiyan: "ABD tüm uranyumumuzu onlara vermemizi... -> /dunya/pezeskiyan-abd-tum-uranyumumuzu-onlara-vermemizi-istiyor-65675
+2025-10-01 11:46:39,188 - INFO - Found article: Yüzde 3890 prim yapan hisseyi 17 yıl önce keşfeden... -> /dunya/unlu-yatirimcinin-hayati-boyunca-verdigi-15-yatirim-tavsiyesi-45847
+2025-10-01 11:46:39,188 - INFO - Found article: Bir finans danışmanına göre en zengin müşterilerin... -> /dunya/bir-finan-danismanina-gore-en-zengin-musterilerinin-3-ozelligi-50052
+2025-10-01 11:46:39,188 - INFO - Found article: ABD ekonomisi güçlü tüketici sinyali veriyor... -> /dunya/abd-ekonomisi-guclu-tuketici-sinyali-veriyor-65619
+2025-10-01 11:46:39,188 - INFO - Found article: Euro Bölgesi'nde enflasyon beklentisi yükseldi... -> /dunya/euro-bolgesi-nde-enflasyon-beklentisi-yukseldi-65616
+2025-10-01 11:46:39,188 - INFO - Found article: Ünlü kahve zinciri bazı dükkanlarını kapatıyor... -> /dunya/unlu-kahve-zinciri-bazi-dukkanlarini-kapatiyor-65604
+2025-10-01 11:46:39,188 - INFO - Found article: AB'den Alman şirketine rekabet soruşturması... -> /dunya/ab-den-alman-sirketine-rekabet-sorusturmasi-65580
+2025-10-01 11:46:39,188 - INFO - Found article: ABD'nin ikinci çeyrek büyüme verisi açıklandı... -> /dunya/abd-nin-ikinci-ceyrek-buyume-verisi-aciklandi-65578
+2025-10-01 11:46:39,188 - INFO - Found article: Bu ülkede dövmeciler, dükkanlarına gizlice girip ç... -> /dunya/bu-ulkede-dovmeciler-dukkanlarina-gizlice-girip-cikiyor-65566
+2025-10-01 11:46:39,188 - INFO - Found article: Almanya'da ekonomik toparlanma beklentileri zayıfl... -> /dunya/almanya-da-ekonomik-toparlanma-beklentileri-zayifliyor-65534
+2025-10-01 11:46:39,188 - INFO - Found article: Kripto milyarderi uzaya gönderiyor: Dünyada bir il... -> /dunya/kripto-milyarderi-uzaya-gonderiyor-dunyada-bir-ilk-olacak-65533
+2025-10-01 11:46:39,188 - INFO - Found article: İngiltere'deki fiziksel mağazalarını kapatıyor: On... -> /dunya/ingiltere-deki-fiziksel-magazalarini-kapatiyor-online-markete-odaklanacak-65531
+2025-10-01 11:46:39,188 - INFO - Found article: İngiliz ekonomisine 2.2 milyar sterlin katkı yapan... -> /dunya/youtube-yildizlari-ingiltere-de-ekonomik-guc-oldu-45-bin-kisiye-is-imkani-65519
+2025-10-01 11:46:39,189 - INFO - Found article: Cari açıkta iyileşme: ABD ekonomisi güçleniyor... -> /dunya/cari-acikta-iyilesme-abd-ekonomisi-gucleniyor-65507
+2025-10-01 11:46:39,189 - INFO - Found article: OECD 2025 Türkiye büyüme ve enflasyon tahminlerini... -> /dunya/oecd-2025-turkiye-buyume-ve-enflasyon-tahminlerini-guncelledi-65494
+2025-10-01 11:46:39,189 - INFO - Found article: Trump'ın yeni vize ücreti düzenlemesi teknoloji se... -> /dunya/trump-in-yeni-vize-ucreti-duzenlemesi-teknoloji-sektorunu-nasil-etkileyecek--65485
+2025-10-01 11:46:39,189 - INFO - Found article: 5 Avrupa ülkesi Filistin Devleti'ni tanıdıklarını ... -> /dunya/5-avrupa-ulkesi-filistin-devleti-ni-tanidiklarini-duyurdu-65467
+2025-10-01 11:46:39,189 - INFO - Found article: 20 milyon dolara çekildi, 600 milyon dolar gişe ya... -> /dunya/20-milyon-dolara-cekildi-600-milyon-dolar-gise-yapti-65462
+2025-10-01 11:46:39,189 - INFO - Found article: Fransa'nın kredi notu bir haftada ikinci kez düşür... -> /dunya/o-ulkenin-kredi-notu-bir-haftada-ikinci-kez-dusuruldu-65458
+2025-10-01 11:46:39,189 - INFO - Found article: İlaç devi 7.3 milyar dolara şirket satın alıyor... -> /dunya/ilac-devi-7-3-milyar-dolara-sirket-satin-aliyor-65455
+2025-10-01 11:46:39,189 - INFO - Page 1: Found 24 articles
+2025-10-01 11:46:39,190 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/almanya-da-eylul-ayinda-yillik-enflasyon-yuzde-2-4-oldu-65767
+2025-10-01 11:46:42,646 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/5-milyar-sterlinlik-sir-bitcoin-vurgununun-arkasindaki-servet-tanricasi-kim--65749
+2025-10-01 11:46:44,048 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/dev-havayolu-sirketinde-tasarruf-tedbiri-idari-islerde-4-bin-kisi-isten-cikariliyor-65707
+2025-10-01 11:46:47,710 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/merkez-bankalari-yilin-son-ceyregine-temkinli-adimlarla-giriyor-65703
+2025-10-01 11:46:49,866 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/pezeskiyan-abd-tum-uranyumumuzu-onlara-vermemizi-istiyor-65675
+2025-10-01 11:46:52,650 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/unlu-yatirimcinin-hayati-boyunca-verdigi-15-yatirim-tavsiyesi-45847
+2025-10-01 11:46:54,505 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/bir-finan-danismanina-gore-en-zengin-musterilerinin-3-ozelligi-50052
+2025-10-01 11:46:57,054 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/abd-ekonomisi-guclu-tuketici-sinyali-veriyor-65619
+2025-10-01 11:46:59,943 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/euro-bolgesi-nde-enflasyon-beklentisi-yukseldi-65616
+2025-10-01 11:47:03,104 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/unlu-kahve-zinciri-bazi-dukkanlarini-kapatiyor-65604
+2025-10-01 11:47:05,790 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/ab-den-alman-sirketine-rekabet-sorusturmasi-65580
+2025-10-01 11:47:08,967 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/abd-nin-ikinci-ceyrek-buyume-verisi-aciklandi-65578
+2025-10-01 11:47:11,332 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/bu-ulkede-dovmeciler-dukkanlarina-gizlice-girip-cikiyor-65566
+2025-10-01 11:47:13,280 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/almanya-da-ekonomik-toparlanma-beklentileri-zayifliyor-65534
+2025-10-01 11:47:15,522 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/kripto-milyarderi-uzaya-gonderiyor-dunyada-bir-ilk-olacak-65533
+2025-10-01 11:47:19,269 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/ingiltere-deki-fiziksel-magazalarini-kapatiyor-online-markete-odaklanacak-65531
+2025-10-01 11:47:19,487 - INFO - Crawler interrupted by user
+2025-10-01 11:47:19,488 - INFO - FINAL SUMMARY - Time: 0:00:40.895675, Articles: 0

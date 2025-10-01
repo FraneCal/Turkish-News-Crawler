@@ -1,0 +1,159 @@
+2025-09-29 23:15:39,790 - INFO - Ekonomist Crawler initialized
+2025-09-29 23:15:39,803 - INFO - Database initialized with Dunya crawler schema
+2025-09-29 23:15:39,803 - INFO - Session configured
+2025-09-29 23:15:39,806 - INFO - Pages to crawl: 1 to 5
+2025-09-29 23:15:39,806 - INFO - Fetching page 1 from API...
+2025-09-29 23:15:41,711 - INFO - Found 24 div.mb-4 elements
+2025-09-29 23:15:41,711 - INFO - Found article: Dev havayolu 4 bin kişiyi işten çıkartıyor... -> /dunya/dev-havayolu-sirketinde-tasarruf-tedbiri-idari-islerde-4-bin-kisi-isten-cikariliyor-65707
+2025-09-29 23:15:41,711 - INFO - Found article: Merkez bankaları yılın son çeyreğine temkinli adım... -> /dunya/merkez-bankalari-yilin-son-ceyregine-temkinli-adimlarla-giriyor-65703
+2025-09-29 23:15:41,723 - INFO - Found article: Pezeşkiyan: "ABD tüm uranyumumuzu onlara vermemizi... -> /dunya/pezeskiyan-abd-tum-uranyumumuzu-onlara-vermemizi-istiyor-65675
+2025-09-29 23:15:41,723 - INFO - Found article: Yüzde 3890 prim yapan hisseyi 17 yıl önce keşfeden... -> /dunya/unlu-yatirimcinin-hayati-boyunca-verdigi-15-yatirim-tavsiyesi-45847
+2025-09-29 23:15:41,725 - INFO - Found article: Bir finans danışmanına göre en zengin müşterilerin... -> /dunya/bir-finan-danismanina-gore-en-zengin-musterilerinin-3-ozelligi-50052
+2025-09-29 23:15:41,725 - INFO - Found article: ABD ekonomisi güçlü tüketici sinyali veriyor... -> /dunya/abd-ekonomisi-guclu-tuketici-sinyali-veriyor-65619
+2025-09-29 23:15:41,727 - INFO - Found article: Euro Bölgesi'nde enflasyon beklentisi yükseldi... -> /dunya/euro-bolgesi-nde-enflasyon-beklentisi-yukseldi-65616
+2025-09-29 23:15:41,727 - INFO - Found article: Ünlü kahve zinciri bazı dükkanlarını kapatıyor... -> /dunya/unlu-kahve-zinciri-bazi-dukkanlarini-kapatiyor-65604
+2025-09-29 23:15:41,727 - INFO - Found article: AB'den Alman şirketine rekabet soruşturması... -> /dunya/ab-den-alman-sirketine-rekabet-sorusturmasi-65580
+2025-09-29 23:15:41,731 - INFO - Found article: ABD'nin ikinci çeyrek büyüme verisi açıklandı... -> /dunya/abd-nin-ikinci-ceyrek-buyume-verisi-aciklandi-65578
+2025-09-29 23:15:41,732 - INFO - Found article: Bu ülkede dövmeciler, dükkanlarına gizlice girip ç... -> /dunya/bu-ulkede-dovmeciler-dukkanlarina-gizlice-girip-cikiyor-65566
+2025-09-29 23:15:41,734 - INFO - Found article: Almanya'da ekonomik toparlanma beklentileri zayıfl... -> /dunya/almanya-da-ekonomik-toparlanma-beklentileri-zayifliyor-65534
+2025-09-29 23:15:41,734 - INFO - Found article: Kripto milyarderi uzaya gönderiyor: Dünyada bir il... -> /dunya/kripto-milyarderi-uzaya-gonderiyor-dunyada-bir-ilk-olacak-65533
+2025-09-29 23:15:41,736 - INFO - Found article: İngiltere'deki fiziksel mağazalarını kapatıyor: On... -> /dunya/ingiltere-deki-fiziksel-magazalarini-kapatiyor-online-markete-odaklanacak-65531
+2025-09-29 23:15:41,737 - INFO - Found article: İngiliz ekonomisine 2.2 milyar sterlin katkı yapan... -> /dunya/youtube-yildizlari-ingiltere-de-ekonomik-guc-oldu-45-bin-kisiye-is-imkani-65519
+2025-09-29 23:15:41,737 - INFO - Found article: Cari açıkta iyileşme: ABD ekonomisi güçleniyor... -> /dunya/cari-acikta-iyilesme-abd-ekonomisi-gucleniyor-65507
+2025-09-29 23:15:41,737 - INFO - Found article: OECD 2025 Türkiye büyüme ve enflasyon tahminlerini... -> /dunya/oecd-2025-turkiye-buyume-ve-enflasyon-tahminlerini-guncelledi-65494
+2025-09-29 23:15:41,737 - INFO - Found article: Trump'ın yeni vize ücreti düzenlemesi teknoloji se... -> /dunya/trump-in-yeni-vize-ucreti-duzenlemesi-teknoloji-sektorunu-nasil-etkileyecek--65485
+2025-09-29 23:15:41,737 - INFO - Found article: 5 Avrupa ülkesi Filistin Devleti'ni tanıdıklarını ... -> /dunya/5-avrupa-ulkesi-filistin-devleti-ni-tanidiklarini-duyurdu-65467
+2025-09-29 23:15:41,742 - INFO - Found article: 20 milyon dolara çekildi, 600 milyon dolar gişe ya... -> /dunya/20-milyon-dolara-cekildi-600-milyon-dolar-gise-yapti-65462
+2025-09-29 23:15:41,744 - INFO - Found article: Fransa'nın kredi notu bir haftada ikinci kez düşür... -> /dunya/o-ulkenin-kredi-notu-bir-haftada-ikinci-kez-dusuruldu-65458
+2025-09-29 23:15:41,744 - INFO - Found article: İlaç devi 7.3 milyar dolara şirket satın alıyor... -> /dunya/ilac-devi-7-3-milyar-dolara-sirket-satin-aliyor-65455
+2025-09-29 23:15:41,744 - INFO - Found article: Dünyanın en yaşlı ülkesinde iki ölümcül kriz çakış... -> /dunya/dunyanin-en-yasli-ulkesinde-iki-olumcul-kriz-cakisti-65418
+2025-09-29 23:15:41,744 - INFO - Found article: Trump o kararnameyi imzaladı: ABD’de çalışma vizel... -> /dunya/trump-o-kararnameyi-imzaladi-abd-de-calisma-vizeleri-icin-odenen-ucret-artti-65399
+2025-09-29 23:15:41,744 - INFO - Page 1: Found 24 articles
+2025-09-29 23:15:41,744 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/dev-havayolu-sirketinde-tasarruf-tedbiri-idari-islerde-4-bin-kisi-isten-cikariliyor-65707
+2025-09-29 23:15:44,416 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/merkez-bankalari-yilin-son-ceyregine-temkinli-adimlarla-giriyor-65703
+2025-09-29 23:15:47,102 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/pezeskiyan-abd-tum-uranyumumuzu-onlara-vermemizi-istiyor-65675
+2025-09-29 23:15:51,583 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/unlu-yatirimcinin-hayati-boyunca-verdigi-15-yatirim-tavsiyesi-45847
+2025-09-29 23:15:54,557 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/bir-finan-danismanina-gore-en-zengin-musterilerinin-3-ozelligi-50052
+2025-09-29 23:15:57,854 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/abd-ekonomisi-guclu-tuketici-sinyali-veriyor-65619
+2025-09-29 23:16:00,260 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/euro-bolgesi-nde-enflasyon-beklentisi-yukseldi-65616
+2025-09-29 23:16:03,935 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/unlu-kahve-zinciri-bazi-dukkanlarini-kapatiyor-65604
+2025-09-29 23:16:06,940 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/ab-den-alman-sirketine-rekabet-sorusturmasi-65580
+2025-09-29 23:16:10,499 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/abd-nin-ikinci-ceyrek-buyume-verisi-aciklandi-65578
+2025-09-29 23:16:13,316 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/bu-ulkede-dovmeciler-dukkanlarina-gizlice-girip-cikiyor-65566
+2025-09-29 23:16:17,572 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/almanya-da-ekonomik-toparlanma-beklentileri-zayifliyor-65534
+2025-09-29 23:16:21,135 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/kripto-milyarderi-uzaya-gonderiyor-dunyada-bir-ilk-olacak-65533
+2025-09-29 23:16:23,331 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/ingiltere-deki-fiziksel-magazalarini-kapatiyor-online-markete-odaklanacak-65531
+2025-09-29 23:16:25,334 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/youtube-yildizlari-ingiltere-de-ekonomik-guc-oldu-45-bin-kisiye-is-imkani-65519
+2025-09-29 23:16:27,538 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/cari-acikta-iyilesme-abd-ekonomisi-gucleniyor-65507
+2025-09-29 23:16:30,873 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/oecd-2025-turkiye-buyume-ve-enflasyon-tahminlerini-guncelledi-65494
+2025-09-29 23:16:34,126 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/trump-in-yeni-vize-ucreti-duzenlemesi-teknoloji-sektorunu-nasil-etkileyecek--65485
+2025-09-29 23:16:37,351 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/5-avrupa-ulkesi-filistin-devleti-ni-tanidiklarini-duyurdu-65467
+2025-09-29 23:16:40,620 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/20-milyon-dolara-cekildi-600-milyon-dolar-gise-yapti-65462
+2025-09-29 23:16:43,133 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/o-ulkenin-kredi-notu-bir-haftada-ikinci-kez-dusuruldu-65458
+2025-09-29 23:16:45,536 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/ilac-devi-7-3-milyar-dolara-sirket-satin-aliyor-65455
+2025-09-29 23:16:48,723 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/dunyanin-en-yasli-ulkesinde-iki-olumcul-kriz-cakisti-65418
+2025-09-29 23:16:51,921 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/trump-o-kararnameyi-imzaladi-abd-de-calisma-vizeleri-icin-odenen-ucret-artti-65399
+2025-09-29 23:16:58,989 - INFO - Fetching page 2 from API...
+2025-09-29 23:17:00,456 - INFO - Found 24 div.mb-4 elements
+2025-09-29 23:17:00,456 - INFO - Found article: BBC'den dikkat çeken makale: Avrupa'nın hasta adam... -> /dunya/bbc-den-dikkat-ceken-makale-avrupa-nin-hasta-adami-olabilecek-ulke-65386
+2025-09-29 23:17:00,456 - INFO - Found article: Çip devleri el sıkıştı: 5 milyar dolarlık strateji... -> /dunya/cip-devleri-el-sikisti-5-milyar-dolarlik-stratejik-ortaklik-65349
+2025-09-29 23:17:00,464 - INFO - Found article: İsviçreli ilaç devi 3.5 milyar dolarlık satın alma... -> /dunya/isvicreli-ilac-devi-3-5-milyar-dolarlik-satin-almaya-hazirlaniyor-65341
+2025-09-29 23:17:00,465 - INFO - Found article: İngiltere Merkez Bankası faiz kararını açıkladı... -> /dunya/ingiltere-merkez-bankasi-faiz-kararini-acikladi-65335
+2025-09-29 23:17:00,465 - INFO - Found article: Ultra milyarderlerin sırları: Bu kasalarda saklanı... -> /dunya/ultra-milyarderlerin-sirlari-yalnizca-bu-kasalarda-sakli-65280
+2025-09-29 23:17:00,465 - INFO - Found article: Yapay zeka, 2040'a kadar dünya ticaretini dönüştür... -> /dunya/yapay-zeka-2040-a-kadar-dunya-ticaretini-donusturecek-65283
+2025-09-29 23:17:00,469 - INFO - Found article: 194 yıllık kuruluşun direktörü: Türkiye inanılmaz... -> /dunya/194-yillik-kurulusun-direktoru-turkiye-inanilmaz-65279
+2025-09-29 23:17:00,469 - INFO - Found article: Euro Bölgesi'nde enflasyon hızı yavaşladı... -> /dunya/euro-bolgesi-nde-enflasyon-hizi-yavasladi-65273
+2025-09-29 23:17:00,471 - INFO - Found article: İngiltere'de enflasyon 1,5 yılın zirvesinde... -> /dunya/ingiltere-de-enflasyon-1-5-yilin-zirvesinde-65266
+2025-09-29 23:17:00,472 - INFO - Found article: Kurduğu şirkete 5 yıl sonra geri döndü: Hangi sekt... -> /dunya/unlu-girisimci-kurdugu-sirkete-5-yil-sonra-geri-dondu-hangi-sektore-odaklanacak--65263
+2025-09-29 23:17:00,474 - INFO - Found article: Microsoft'tan İngiltere'ye dev yapay zeka yatırımı... -> /dunya/microsoft-tan-ingiltere-ye-dev-yapay-zeka-yatirimi-30-milyar-dolar-65259
+2025-09-29 23:17:00,474 - INFO - Found article: Euro Bölgesi'nde sanayi üretimi Temmuz ayında artt... -> /dunya/euro-bolgesi-nde-sanayi-uretimi-temmuz-ayinda-artti-65235
+2025-09-29 23:17:00,474 - INFO - Found article: Trump o gazeteye 15 milyar dolarlık dava açıyor... -> /dunya/trump-o-gazeteye-15-milyar-dolarlik-dava-aciyor-65226
+2025-09-29 23:17:00,474 - INFO - Found article: Restoran zincirindeki video rezaleti ailelere paha... -> /dunya/restoran-zincirindeki-video-rezaleti-ailelere-pahaliya-patladi-65225
+2025-09-29 23:17:00,474 - INFO - Found article: Lüks markalara siber saldırı: Hangi veriler çalınd... -> /dunya/luks-markalara-siber-saldiri-milyonlarca-musterinin-verisi-calindi-65218
+2025-09-29 23:17:00,480 - INFO - Found article: Ünlü milyarderin yatında neden yüzük takmak yasakt... -> /dunya/unlu-milyarderin-yatinda-neden-ayakkabi-yasakti--65203
+2025-09-29 23:17:00,480 - INFO - Found article: Trump, Fed faiz indirimi çağrısını yineledi... -> /dunya/trump-fed-faiz-indirimi-cagrisini-yineledi-65200
+2025-09-29 23:17:00,480 - INFO - Found article: Elon Musk 1 milyar dolarlık  hisse aldı, hisse fiy... -> /dunya/tesla-ya-guven-tazelendi-musk-1-milyar-dolarlik-hisse-alimiyla-piyasalari-canlandirdi-65194
+2025-09-29 23:17:00,480 - INFO - Found article: Enflasyon baskısı Fed’in 50 baz puanlık indirim ih... -> /dunya/enflasyon-baskisi-fed-in-50-baz-puanlik-indirim-ihtimalini-zayiflatti-65184
+2025-09-29 23:17:00,480 - INFO - Found article: Fed'de yeni gündem: Lisa Cook davasında yeni geliş... -> /dunya/fed-de-yeni-gundem-lisa-cook-davasinda-yeni-gelismeler-var-65182
+2025-09-29 23:17:00,480 - INFO - Found article: Ermenistan, sınır damgalarından Ağrı Dağı’nı kaldı... -> /dunya/ermenistan-sinir-damgalarindan-agri-dagi-ni-kaldiriyor-65147
+2025-09-29 23:17:00,480 - INFO - Found article: Olan biten Putin'in 'salam dilimleme' taktiği mi?... -> /dunya/olan-biten-putin-in-salam-dilimleme-taktigi-mi--65146
+2025-09-29 23:17:00,489 - INFO - Found article: Euroya geçmeye hazırlanan ülkede euro protestosu... -> /dunya/euroya-gecmeye-hazirlanan-ulkede-euro-protestosu-65128
+2025-09-29 23:17:00,490 - INFO - Found article: Vasiyeti belli oldu: Miras için bir sürpriz ve hal... -> /dunya/armani-yi-kimler-devralacak-iste-buyuk-mirasin-sirri-65121
+2025-09-29 23:17:00,491 - INFO - Page 2: Found 24 articles
+2025-09-29 23:17:00,494 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/bbc-den-dikkat-ceken-makale-avrupa-nin-hasta-adami-olabilecek-ulke-65386
+2025-09-29 23:17:03,675 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/cip-devleri-el-sikisti-5-milyar-dolarlik-stratejik-ortaklik-65349
+2025-09-29 23:17:06,332 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/isvicreli-ilac-devi-3-5-milyar-dolarlik-satin-almaya-hazirlaniyor-65341
+2025-09-29 23:17:08,485 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/ingiltere-merkez-bankasi-faiz-kararini-acikladi-65335
+2025-09-29 23:17:11,452 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/ultra-milyarderlerin-sirlari-yalnizca-bu-kasalarda-sakli-65280
+2025-09-29 23:17:15,143 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/yapay-zeka-2040-a-kadar-dunya-ticaretini-donusturecek-65283
+2025-09-29 23:17:17,892 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/194-yillik-kurulusun-direktoru-turkiye-inanilmaz-65279
+2025-09-29 23:17:19,989 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/euro-bolgesi-nde-enflasyon-hizi-yavasladi-65273
+2025-09-29 23:17:22,669 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/ingiltere-de-enflasyon-1-5-yilin-zirvesinde-65266
+2025-09-29 23:17:24,569 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/unlu-girisimci-kurdugu-sirkete-5-yil-sonra-geri-dondu-hangi-sektore-odaklanacak--65263
+2025-09-29 23:17:28,138 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/microsoft-tan-ingiltere-ye-dev-yapay-zeka-yatirimi-30-milyar-dolar-65259
+2025-09-29 23:17:30,550 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/euro-bolgesi-nde-sanayi-uretimi-temmuz-ayinda-artti-65235
+2025-09-29 23:17:33,203 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/trump-o-gazeteye-15-milyar-dolarlik-dava-aciyor-65226
+2025-09-29 23:17:35,214 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/restoran-zincirindeki-video-rezaleti-ailelere-pahaliya-patladi-65225
+2025-09-29 23:17:38,512 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/luks-markalara-siber-saldiri-milyonlarca-musterinin-verisi-calindi-65218
+2025-09-29 23:17:41,149 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/unlu-milyarderin-yatinda-neden-ayakkabi-yasakti--65203
+2025-09-29 23:17:44,736 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/trump-fed-faiz-indirimi-cagrisini-yineledi-65200
+2025-09-29 23:17:48,315 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/tesla-ya-guven-tazelendi-musk-1-milyar-dolarlik-hisse-alimiyla-piyasalari-canlandirdi-65194
+2025-09-29 23:17:51,876 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/enflasyon-baskisi-fed-in-50-baz-puanlik-indirim-ihtimalini-zayiflatti-65184
+2025-09-29 23:17:53,655 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/fed-de-yeni-gundem-lisa-cook-davasinda-yeni-gelismeler-var-65182
+2025-09-29 23:17:56,701 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/ermenistan-sinir-damgalarindan-agri-dagi-ni-kaldiriyor-65147
+2025-09-29 23:18:00,553 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/olan-biten-putin-in-salam-dilimleme-taktigi-mi--65146
+2025-09-29 23:18:04,084 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/euroya-gecmeye-hazirlanan-ulkede-euro-protestosu-65128
+2025-09-29 23:18:06,668 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/armani-yi-kimler-devralacak-iste-buyuk-mirasin-sirri-65121
+2025-09-29 23:18:11,853 - INFO - Fetching page 3 from API...
+2025-09-29 23:18:13,389 - INFO - Found 24 div.mb-4 elements
+2025-09-29 23:18:13,389 - INFO - Found article: OpenAI halka arz İçin düğmeye bastı: Microsoft'la ... -> /dunya/openai-halka-arz-icin-dugmeye-basti-microsoft-la-yeni-bir-donem-65116
+2025-09-29 23:18:13,389 - INFO - Found article: Hükümetten yeni rapor: Almanya ekonomisi bu yıl to... -> /dunya/hukumetten-yeni-rapor-almanya-ekonomisi-bu-yil-toparlanmayacak-65114
+2025-09-29 23:18:13,389 - INFO - Found article: ABD Rusya'ya daha geniş kapsamlı ekonomik yaptırım... -> /dunya/abd-rusya-ya-daha-genis-kapsamli-ekonomik-yaptirimlar-uygulamak-istiyor-65113
+2025-09-29 23:18:13,389 - INFO - Found article: Berlin restoranları müşteriden umudu kesti... -> /dunya/berlin-restoranlari-musteriden-umudu-kesti-65106
+2025-09-29 23:18:13,389 - INFO - Found article: 128 yıllık bisiklet markası iflas başvurusu yaptı... -> /dunya/128-yillik-bisiklet-markasi-iflas-basvurusu-yapti-65089
+2025-09-29 23:18:13,389 - INFO - Found article: 1.38 milyar dolarlık teklif: Satış gerçekleşirse b... -> /dunya/1-38-milyar-dolarlik-teklif-satis-gerceklesirse-borsada-islem-gormeyecek-65086
+2025-09-29 23:18:13,397 - INFO - Found article: Sohbetleri kameralara takılmıştı: 150 yıl ömür ve ... -> /dunya/putin-ve-si-nin-ilginc-sohbeti-kameralara-takilmisti-150-yil-omur-ve-olumsuzluk-mumkun-mu--65046
+2025-09-29 23:18:13,398 - INFO - Found article: Sanat piyasasındaki durgunluk etkiledi, ünlü şirke... -> /dunya/sanat-piyasasindaki-durgunluk-etkiledi-unlu-sirketin-zarari-artti-65035
+2025-09-29 23:18:13,399 - INFO - Found article: ABD'de işsizlik maaşı başvuruları 4 yılın zirvesin... -> /dunya/abd-de-issizlik-maasi-basvurulari-4-yilin-zirvesinde--65036
+2025-09-29 23:18:13,400 - INFO - Found article: ABD'de Ağustos ayına ait enflasyon verileri açıkla... -> /dunya/abd-de-enflasyon-agustos-ayinda-beklentilerin-uzerinde-artti-65034
+2025-09-29 23:18:13,401 - INFO - Found article: Avrupa'da yaşamın en uzun olduğu ülke belli oldu... -> /dunya/avrupa-da-en-uzun-omurlu-ulkeler-italya-ve-isvec-zirvede-65031
+2025-09-29 23:18:13,403 - INFO - Found article: NASA açıkladı: İşaretler Mars'ta antik yaşamın en ... -> /dunya/nasa-acikladi-isaretler-mars-ta-antik-yasamin-en-belirgin-ipucu-64987
+2025-09-29 23:18:13,403 - INFO - Found article: Düşürülen İHA'lardan sonra gözler 3 ülkedeydi: Kim... -> /dunya/dusurulen-iha-lardan-sonra-gozler-3-ulkede-kim-ne-dedi--64957
+2025-09-29 23:18:13,405 - INFO - Found article: Bir araştırmaya göre emeklilerin en rahat yaşadığı... -> /dunya/bir-arastirmaya-gore-emeklilerin-en-rahat-yasadigi-yer-64980
+2025-09-29 23:18:13,405 - INFO - Found article: "Enflasyon yok, Fed faizi derhal düşürmeli"... -> /dunya/enflasyon-yok-fed-faizi-derhal-dusurmeli-64979
+2025-09-29 23:18:13,405 - INFO - Found article: 252 km ile radara yakalandı ama muhtemelen ceza al... -> /dunya/252-km-ile-radara-yakalandi-ama-muhtemelen-ceza-almayacak-64978
+2025-09-29 23:18:13,405 - INFO - Found article: ABD’de mortgage faizleri geriledi... -> /dunya/abd-de-mortgage-faizleri-geriledi-64975
+2025-09-29 23:18:13,405 - INFO - Found article: Yüksek Mahkeme'den hızlandırılmış 'Tarife Davası' ... -> /dunya/yuksek-mahkeme-den-hizlandirilmis-tarife-davasi-incelemesi-trump-yonetiminin-itirazi-kabul-edildi-64962
+2025-09-29 23:18:13,405 - INFO - Found article: Teknoloji milyarderlerinin yarışı kızışıyor: Oracl... -> /dunya/teknoloji-milyarderlerinin-yarisi-kizisiyor-oracle-in-hisseleriyle-ellison-musk-i-yakaliyor-64949
+2025-09-29 23:18:13,412 - INFO - Found article: İlaç şirketinden şok karar: 9 bin kişiyi işten çık... -> /dunya/ilac-sirketinden-sok-karar-9-bin-kisiyi-isten-cikaracak-64947
+2025-09-29 23:18:13,413 - INFO - Found article: Yargıçtan Trump'a Fed freni: Cook'un görevden alın... -> /dunya/yargictan-trump-a-fed-freni-cook-un-gorevden-alinmasi-durduruldu-64944
+2025-09-29 23:18:13,415 - INFO - Found article: Çin ekonomisinde deflasyon sinyalleri güçleniyor... -> /dunya/cin-ekonomisinde-deflasyon-sinyalleri-gucleniyor-64938
+2025-09-29 23:18:13,415 - INFO - Found article: Polonya, hava sahasında Rus İHA'larını vurduğunu d... -> /dunya/polonya-hava-sahasinda-rus-iha-larini-vurdugunu-duyurdu-64935
+2025-09-29 23:18:13,415 - INFO - Found article: ABD'li şirketlerin yatırımlarını yönlendirdiği yen... -> /dunya/abd-li-sirketlerin-yatirimlarini-yonlendirdigi-yeni-adres-64933
+2025-09-29 23:18:13,415 - INFO - Page 3: Found 24 articles
+2025-09-29 23:18:13,421 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/openai-halka-arz-icin-dugmeye-basti-microsoft-la-yeni-bir-donem-65116
+2025-09-29 23:18:17,141 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/hukumetten-yeni-rapor-almanya-ekonomisi-bu-yil-toparlanmayacak-65114
+2025-09-29 23:18:20,468 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/abd-rusya-ya-daha-genis-kapsamli-ekonomik-yaptirimlar-uygulamak-istiyor-65113
+2025-09-29 23:18:22,220 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/berlin-restoranlari-musteriden-umudu-kesti-65106
+2025-09-29 23:18:25,084 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/128-yillik-bisiklet-markasi-iflas-basvurusu-yapti-65089
+2025-09-29 23:18:28,815 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/1-38-milyar-dolarlik-teklif-satis-gerceklesirse-borsada-islem-gormeyecek-65086
+2025-09-29 23:18:32,794 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/putin-ve-si-nin-ilginc-sohbeti-kameralara-takilmisti-150-yil-omur-ve-olumsuzluk-mumkun-mu--65046
+2025-09-29 23:18:36,450 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/sanat-piyasasindaki-durgunluk-etkiledi-unlu-sirketin-zarari-artti-65035
+2025-09-29 23:18:38,614 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/abd-de-issizlik-maasi-basvurulari-4-yilin-zirvesinde--65036
+2025-09-29 23:18:42,223 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/abd-de-enflasyon-agustos-ayinda-beklentilerin-uzerinde-artti-65034
+2025-09-29 23:18:45,459 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/avrupa-da-en-uzun-omurlu-ulkeler-italya-ve-isvec-zirvede-65031
+2025-09-29 23:18:49,022 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/nasa-acikladi-isaretler-mars-ta-antik-yasamin-en-belirgin-ipucu-64987
+2025-09-29 23:18:50,890 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/dusurulen-iha-lardan-sonra-gozler-3-ulkede-kim-ne-dedi--64957
+2025-09-29 23:18:54,023 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/bir-arastirmaya-gore-emeklilerin-en-rahat-yasadigi-yer-64980
+2025-09-29 23:18:57,395 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/enflasyon-yok-fed-faizi-derhal-dusurmeli-64979
+2025-09-29 23:18:59,560 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/252-km-ile-radara-yakalandi-ama-muhtemelen-ceza-almayacak-64978
+2025-09-29 23:19:02,891 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/abd-de-mortgage-faizleri-geriledi-64975
+2025-09-29 23:19:06,448 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/yuksek-mahkeme-den-hizlandirilmis-tarife-davasi-incelemesi-trump-yonetiminin-itirazi-kabul-edildi-64962
+2025-09-29 23:19:09,839 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/teknoloji-milyarderlerinin-yarisi-kizisiyor-oracle-in-hisseleriyle-ellison-musk-i-yakaliyor-64949
+2025-09-29 23:19:13,109 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/ilac-sirketinden-sok-karar-9-bin-kisiyi-isten-cikaracak-64947
+2025-09-29 23:19:15,769 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/yargictan-trump-a-fed-freni-cook-un-gorevden-alinmasi-durduruldu-64944
+2025-09-29 23:19:18,839 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/cin-ekonomisinde-deflasyon-sinyalleri-gucleniyor-64938
+2025-09-29 23:19:20,992 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/polonya-hava-sahasinda-rus-iha-larini-vurdugunu-duyurdu-64935
+2025-09-29 23:19:24,462 - INFO - Fetching article HTML: https://www.ekonomist.com.tr/dunya/abd-li-sirketlerin-yatirimlarini-yonlendirdigi-yeni-adres-64933
+2025-09-29 23:19:27,701 - INFO - Crawler interrupted by user
+2025-09-29 23:19:27,701 - INFO - FINAL SUMMARY - Time: 0:03:47.895924, Articles: 72
